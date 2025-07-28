@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+html{
+    height: 100rem;
+}
+
+:root{
+    --base-color: #f1f1f1;
+    --primary-color: #0a13c0;
+    --secondary-color: #ad00ef;
+    --active-button-state: var(--primary-color);
+    --hover-btn-state: #0611db;
+    --focus-btn-state: var(var(--base-color));
+}
+
+
+@theme {
+    -default-font-size: 15px;
+    -default-shadow-box: 0px 0px 20px rgba(0,0,0,.3);
+    -base-color: #f1f1f1;
+    -primary-color: #0a13c0;
+    -secondary-color: #ad00ef;
+    -active-button-state: var(--primary-color);
+    -hover-btn-state: #0611db;
+    -focus-btn-state: var(var(--base-color));
+}
+/* 
+@layer components{
+    .active-link{
+        padding: 10px 14px;
+        color: #f1f1f1;
+        background-color: var(--primary-color);
+        border-radius: 30px;
+        border: 1px solid var(--primary-color);
+        font-size: 15px;
+    }
+} */
+.nav-link{
+    padding: 9px 30px;
+    height: 44px;
+border-radius: 30px;
+    cursor: pointer;
+    transition: all 1s ease;
+}
+.active-link{
+    height: 44px;
+    padding: 9px 30px;
+    color: #f1f1f1;
+    background-color: var(--primary-color);
+    border-radius: 30px;
+    border: 1px solid var(--primary-color);
+    font-size: 15px;
+    cursor: pointer;
+    transition: all 1s ease;
+}
+
+.nav-link:hover{
+    background-color: var(--hover-btn-state);
+}
+
