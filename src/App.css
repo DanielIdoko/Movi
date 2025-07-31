@@ -4,6 +4,10 @@ html{
     height: 100rem;
 }
 
+body{
+    transition: all 350ms ease;
+}
+
 :root{
     --base-color: #f1f1f1;
     --primary-color: #0a13c0;
@@ -15,33 +19,89 @@ html{
 
 
 @theme {
-    -default-font-size: 15px;
-    -default-shadow-box: 0px 0px 20px rgba(0,0,0,.3);
-    -base-color: #f1f1f1;
-    -primary-color: #0a13c0;
-    -secondary-color: #ad00ef;
-    -active-button-state: var(--primary-color);
-    -hover-btn-state: #0611db;
-    -focus-btn-state: var(var(--base-color));
+    --default-font-size: 15px;
+    --default-shadow-box: 0px 0px 20px rgba(0,0,0,.3);
+    --base-color: #f1f1f1;
+    --color-dark: #001;
+    --primary-color: #5451f7;
+    --secondary-color: #ad00ef;
+    --active-button-state: var(--primary-color);
+    --hover-btn-state: #0611db;
+    --focus-btn-state: var(var(--base-color));
 }
-/* 
-@layer components{
-    .active-link{
-        padding: 10px 14px;
-        color: #f1f1f1;
-        background-color: var(--primary-color);
-        border-radius: 30px;
-        border: 1px solid var(--primary-color);
-        font-size: 15px;
-    }
-} */
+ 
+
+/* Spinner styling here */
+.loader {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+  border: 3px solid;
+  border-color: #FFF #FFF transparent transparent;
+  box-sizing: border-box;
+  animation: rotation 1s linear infinite;
+}
+.loader::after,
+.loader::before {
+  content: '';  
+  box-sizing: border-box;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  border: 3px solid;
+  border-color: transparent transparent #FF3D00 #FF3D00;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  box-sizing: border-box;
+  animation: rotationBack 0.5s linear infinite;
+  transform-origin: center center;
+}
+.loader::before {
+  width: 32px;
+  height: 32px;
+  border-color: #FFF #FFF transparent transparent;
+  animation: rotation 1.5s linear infinite;
+}
+    
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+} 
+@keyframes rotationBack {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(-360deg);
+  }
+}
+    
+
+
+/* Stying for navlink */
 .nav-link{
-    padding: 9px 30px;
+    /* padding: 9px 30px; */
     height: 44px;
-border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
     cursor: pointer;
+    color: var(--base-color);
     transition: all 1s ease;
 }
+
 .active-link{
     height: 44px;
     padding: 9px 30px;
@@ -55,6 +115,15 @@ border-radius: 30px;
 }
 
 .nav-link:hover{
-    background-color: var(--hover-btn-state);
+    color: var(--primary-color);
 }
 
+.category-button{
+    padding: 5px 10px;
+    font-size: 14px;
+    border: 1.5px solid #848383b9;
+    color: #d3d3d3;
+    border-radius: 60px;
+    transition: all 350ms ease;
+    cursor: pointer;
+}
