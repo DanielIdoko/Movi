@@ -1,4 +1,4 @@
-#Movie App with React, RapidAPI, Tailwindcss, React Router and JavaScript.
+##Movie App with React, RapidAPI, Tailwindcss, React Router and JavaScript.
 
 
 Here are the features of this App:
