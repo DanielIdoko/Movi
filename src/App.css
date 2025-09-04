@@ -13,6 +13,18 @@ img:hover {
   transform: scale(1.1);
 }
 
+.sub-heading{
+  @apply text-small md:text-medium p-2 md:p-3 md:pl-13 mt-10 text-white 
+}
+
+.info {
+    @apply text-gray-500 text-small font-bold 
+}
+
+span{
+  @apply font-normal
+}
+
 @theme {
   /* Text sizes themes */
   --text-x-small: 11px;

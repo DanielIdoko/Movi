@@ -5,6 +5,7 @@ import Spinner from '../../components/Spinner';
 import useFetchMovies from '../../store/useFetchMovies';
 import { API_URL2 } from '../../utils/api';
 import MovieDetail from '../../components/MovieDetail';
+import SimilarMovies from './SimilarMovies/SimilarMovies';
 
 
 const MovieDescription = () => {
@@ -39,9 +40,14 @@ const MovieDescription = () => {
     <div className='w-full h-full md:mt-20 p-3 md:p-10'>
       {
         isLoading ? (<Spinner />) : errorMessage ? (<p className='text-red-600 text-small md:text-medium'>{errorMessage}</p>) : (
-          <MovieDetail movieDetail={movie}/>
+          <MovieDetail movie={movie} key={movie.id} />
         )
       }
+
+      {/* Similar movies section */}
+      <section>
+        <SimilarMovies movie={movie} />
+      </section>
     </div>
   )
 }
