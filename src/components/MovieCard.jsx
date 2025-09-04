@@ -7,7 +7,7 @@ export default function MovieCard({ movieData, state }) {
     <Link
       to={`/movie/${movieData.id}`}
       className='w-44 md:w-48 h-60 bg-dark relative p-1 rounded-2xl cursor-pointer overflow-hidden'
-      state={state}>
+      state={{ state }}>
       <div className="w-full h-auto overflow-hidden rounded-xl">
         <img
           src={decodeURIComponent(movieData.primaryImage).length > 10 ? movieData.primaryImage : "../assets/PosterImage.png"} alt={movieData.originalTitle}

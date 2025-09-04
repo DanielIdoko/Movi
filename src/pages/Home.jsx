@@ -50,13 +50,13 @@ export default function Home() {
   }
 
   // Call filterMovies(depends on a selscted category) and fetchMovies(Runs on every load of the app) function
-    // useEffect(() => {
-    //   filterMovies(filterMovieOptions);
-    // }, [selectedCategory])
+  useEffect(() => {
+    filterMovies(filterMovieOptions);
+  }, [selectedCategory])
 
-    // useEffect(() => {
-    //   fetchMovies(options);
-    // }, [])
+  useEffect(() => {
+    fetchMovies(options);
+  }, [])
 
   // Search bar code
   const { searchBarVisible } = Main();
@@ -82,7 +82,7 @@ export default function Home() {
       {/* Popular movies section */}
       <section
         className='w-full h-auto p-3 bg-transparent md:mt-26'>
-        <h2 className='text-small md:text-medium p-2 md:p-3 md:pl-13 mt-10 text-white '>Most Popular Movies For You</h2>
+        <h2 className='sub-heading'>Most Popular Movies For You</h2>
         <div className='w-full h-full flex-items-center justify-start p-3 md:p-10'>
           <Suspense fallback={<Spinner />}>
             {errorMessage ? (<p className='text-center text-md text-base-color'>An Error occured, please try again</p>)
@@ -105,7 +105,7 @@ export default function Home() {
                     {movies.slice(0, 20).map((movie) => (
                       <>
                         <SwiperSlide key={Math.random()}>
-                          <MovieCard movieData={movie} loading={"lazy"} state={{movie}}/>
+                          <MovieCard movieData={movie} loading={"lazy"} state={movie}/>
                         </SwiperSlide>
                       </>
                     ))}
@@ -117,7 +117,7 @@ export default function Home() {
       {/* Popular movies ection ends here */}
       {/* Categories section */}
       < section className="movies-categories" >
-        <h2 className='text-small md:text-medium text-base-color  pb-6 md:pl-10'>Filter by Category</h2>
+        <h2 className='sub-heading'>Filter by Category</h2>
         <nav className='w-full h-auto flex items-center justify-start gap-1 md:gap-6 md:pl-10'>
           {
             categories.map(category => (
@@ -136,9 +136,9 @@ export default function Home() {
             (
               <div className="w-full h-auto mt-6 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 items-center justify-items-center">
                 {
-                  filteredMovies.map(movie => (
+                  filteredMovies.map((movie) => (
                     <Suspense fallback={<Spinner />} key={Math.random()}>
-                      <MovieCard movieData={movie} state={{movie}}/>
+                      <MovieCard movieData={movie} state={movie}/>
                     </Suspense>
                   ))}
               </div>
