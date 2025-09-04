@@ -40,7 +40,7 @@ function Navbar() {
         {
           navs.map((navLink) => (
             <NavLink
-              key={Math.random()}
+              key={navLink.title + "imiwniwnbe8b"}
               to={navLink.path}
               onClick={() => setActiveNav(navLink.title)}
               className='nav-link'

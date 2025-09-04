@@ -14,7 +14,7 @@ img:hover {
 }
 
 .sub-heading{
-  @apply text-small md:text-medium p-2 md:p-3 md:pl-13 mt-10 text-white 
+  @apply text-small md:text-medium p-2 text-white 
 }
 
 .info {

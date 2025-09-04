@@ -50,13 +50,13 @@ export default function Home() {
   }
 
   // Call filterMovies(depends on a selscted category) and fetchMovies(Runs on every load of the app) function
-    // useEffect(() => {
-    //   filterMovies(filterMovieOptions);
-    // }, [selectedCategory])
+  useEffect(() => {
+    filterMovies(filterMovieOptions);
+  }, [selectedCategory])
 
-    // useEffect(() => {
-    //   fetchMovies(options);
-    // }, [])
+  useEffect(() => {
+    fetchMovies(options);
+  }, [])
 
   // Search bar code
   const { searchBarVisible } = Main();
@@ -105,7 +105,7 @@ export default function Home() {
                     {movies.slice(0, 20).map((movie) => (
                       <>
                         <SwiperSlide key={Math.random()}>
-                          <MovieCard movieData={movie} loading={"lazy"} state={{movie}}/>
+                          <MovieCard movieData={movie} loading={"lazy"} state={movie}/>
                         </SwiperSlide>
                       </>
                     ))}
@@ -136,9 +136,9 @@ export default function Home() {
             (
               <div className="w-full h-auto mt-6 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 items-center justify-items-center">
                 {
-                  filteredMovies.map(movie => (
+                  filteredMovies.map((movie) => (
                     <Suspense fallback={<Spinner />} key={Math.random()}>
-                      <MovieCard movieData={movie} state={{movie}}/>
+                      <MovieCard movieData={movie} state={movie}/>
                     </Suspense>
                   ))}
               </div>

@@ -29,7 +29,7 @@ const MovieDetail = ({ movie }) => {
         <div className='w-full h-full col-span-2 p-2'>
           <ul className='w-fit h-fit p-0 flex items-center justify-start mt-6 gap-3'>
             {movie.genres.map(genre => (
-              <li key={Math.random()} className='w-fit h-fit text-small text-white/10 rounded-full'>{genre.toUpperCase()}</li>
+              <li key={genre + "id"} className='w-fit h-fit text-small text-white/10 rounded-full'>{genre.toUpperCase()}</li>
             ))}
           </ul>
             <span className='w-full h-fit flex items-center justify-start mt-6 gap-2'>
@@ -68,7 +68,7 @@ const MovieDetail = ({ movie }) => {
               <span className='text-small text-gray-500'>Rating</span>
             </div>
             <div className='w-fit h-full flex flex-col justify-center items-center'>
-              <p className='text-x-medium text-gray-300'>{movie.budget.toLocaleString()}</p>
+              <p className='text-x-medium text-gray-300'>{movie.budget ? movie.budget.toLocaleString() : 0}</p>
               <span className='text-small text-gray-500'>Budget</span>
             </div>
             <div className='w-fit h-full flex flex-col justify-center items-center'>
@@ -95,25 +95,17 @@ const MovieDetail = ({ movie }) => {
                 ))}</p>
                 <p className='info'>Filming Locations: {movie.filmingLocations
                   ?.map(location => (
-                    <span>{location}</span>
+                    <span key={Math.random()}>{location}</span>
                   ))}</p>
                   <p className='info'>Interests: {movie.interests?.map(interest => (
-                    <span>{interest}, </span>
+                    <span key={Math.random()}>{interest}, </span>
                   ))}</p>
                   <p className='info'>Votes: <span>{movie.numVotes.toLocaleString()}</span></p>
               </div>
             )
           }
         </div>
-        <div
-          className='col-span-3 w-full flex items-center justify-start bg-transparent gap-10'>
-          {movie.thumbnails.map(image => (
-            <img src={image.url} alt="Thumbnail poster image" key={image.height} className='w-60 h-60 cursor-pointer' />
-          ))}
-        </div>
       </div>
-      {/* Recommended movies section */}
-      <h3 className='sub-heading'>Similar Movies</h3>
     </div>
   )
 }
