@@ -1,0 +1,4942 @@
+{
+  "rows": 100,
+  "numFound": 10896,
+  "results": [
+    {
+      "id": "tt12824390",
+      "url": "https://www.imdb.com/title/tt12824390/",
+      "primaryTitle": "The Pout-Pout Fish",
+      "originalTitle": "The Pout-Pout Fish",
+      "type": "movie",
+      "description": "Join two aquatic misfits as they embark on an impossible journey to save their home.",
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2025-10-24",
+      "startYear": 2025,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Adventure", "Animation", "Comedy"],
+      "interests": ["Adventure", "Animation", "Comedy", "Family", "Fantasy"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": null,
+      "spokenLanguages": null,
+      "filmingLocations": ["Australia"],
+      "productionCompanies": [
+        {
+          "id": "co1038183",
+          "name": "Cosmic Dino Studio"
+        },
+        {
+          "id": "co0600364",
+          "name": "Like A Photon Creative"
+        },
+        {
+          "id": "co0812733",
+          "name": "Macmillan Publishers"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt2119558",
+      "url": "https://www.imdb.com/title/tt2119558/",
+      "primaryTitle": "El peque\u00f1o mago",
+      "originalTitle": "El peque\u00f1o mago",
+      "type": "movie",
+      "description": "In Europe, during the Medieval Age and in St Jacob\u0027s way area, Dubidoso, a child with magical powers will suffer the persecution of the town\u0027s Lord, who will accused him of witchcraft. Dubidoso and Destreza, his friend, will experience many touching adventures during their runaway and, without realizing, it will arise between them a feeling that will make them stronger: Love.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMTc5NTA2NDg3MF5BMl5BanBnXkFtZTcwODIxMjE0OQ@@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMTc5NTA2NDg3MF5BMl5BanBnXkFtZTcwODIxMjE0OQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMTc5NTA2NDg3MF5BMl5BanBnXkFtZTcwODIxMjE0OQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMTc5NTA2NDg3MF5BMl5BanBnXkFtZTcwODIxMjE0OQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2013-11-15",
+      "startYear": 2013,
+      "endYear": null,
+      "runtimeMinutes": 80,
+      "genres": ["Adventure", "Animation", "Fantasy"],
+      "interests": ["Adventure", "Animation", "Fantasy"],
+      "countriesOfOrigin": ["ES"],
+      "externalLinks": [
+        "https://es-es.facebook.com/debouracinema",
+        "https://twitter.com/DebouraCinema"
+      ],
+      "spokenLanguages": ["es", "gl"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0522024",
+          "name": "Deboura Cinema"
+        }
+      ],
+      "budget": 3500000,
+      "grossWorldwide": 29298,
+      "averageRating": 5.3,
+      "numVotes": 33,
+      "metascore": null
+    },
+    {
+      "id": "tt0065021",
+      "url": "https://www.imdb.com/title/tt0065021/",
+      "primaryTitle": "Flying Phantom Ship",
+      "originalTitle": "Sora tobu y\u00fbreisen",
+      "type": "movie",
+      "description": "Hayato\u0027s peaceful life with his parents and his dog is brought to a dramatic, terrible end when a giant robot, said to be sent from a flying ghost ship, devastates the city, killing hundreds including Hayato\u0027s parents. Shortly before his death, Hayato\u0027s father reveals that he is not really their son. Hayato is now alone, struggling in this strange new world left after the disaster, where giant machines and monsters control the world. He sets on a dangerous quest to discover the mysterious powers that be, only to discover that he is directly connected to it all...",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMmEyMTg0MTUtZDcyMy00OTZlLWE1Y2QtMWY3ZWJlNzY0ZjIwXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMmEyMTg0MTUtZDcyMy00OTZlLWE1Y2QtMWY3ZWJlNzY0ZjIwXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMmEyMTg0MTUtZDcyMy00OTZlLWE1Y2QtMWY3ZWJlNzY0ZjIwXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMmEyMTg0MTUtZDcyMy00OTZlLWE1Y2QtMWY3ZWJlNzY0ZjIwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=38ZD1YRGa1o",
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "1969-07-20",
+      "startYear": 1969,
+      "endYear": null,
+      "runtimeMinutes": 61,
+      "genres": ["Adventure", "Animation", "Comedy"],
+      "interests": [
+        "Anime",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Sci-Fi"
+      ],
+      "countriesOfOrigin": ["JP"],
+      "externalLinks": null,
+      "spokenLanguages": ["ja"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0062107",
+          "name": "Toei Animation"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 6.7,
+      "numVotes": 875,
+      "metascore": null
+    },
+    {
+      "id": "tt4162910",
+      "url": "https://www.imdb.com/title/tt4162910/",
+      "primaryTitle": "Frog Kingdom",
+      "originalTitle": "Frog Kingdom",
+      "type": "movie",
+      "description": "Princess Froglegs goes undercover to compete in her father\u0027s Froglympics in order to avoid being married off to a male suitor.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMjExNTkyMjU5Ml5BMl5BanBnXkFtZTgwOTc0ODA4NTE@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjExNTkyMjU5Ml5BMl5BanBnXkFtZTgwOTc0ODA4NTE@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjExNTkyMjU5Ml5BMl5BanBnXkFtZTgwOTc0ODA4NTE@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjExNTkyMjU5Ml5BMl5BanBnXkFtZTgwOTc0ODA4NTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=Fef5o2vKyyo",
+      "contentRating": "PG",
+      "isAdult": false,
+      "releaseDate": "2015-06-30",
+      "startYear": 2013,
+      "endYear": null,
+      "runtimeMinutes": 86,
+      "genres": ["Adventure", "Animation", "Comedy"],
+      "interests": ["Adventure", "Animation", "Comedy", "Sport"],
+      "countriesOfOrigin": ["CN", "US"],
+      "externalLinks": null,
+      "spokenLanguages": ["zh", "en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0209560",
+          "name": "Grindstone Entertainment Group"
+        },
+        {
+          "id": "co0639027",
+          "name": "Jilin Vixo Pictures"
+        },
+        {
+          "id": "co0426986",
+          "name": "Simka Entertainment"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 3280189,
+      "averageRating": 3.4,
+      "numVotes": 466,
+      "metascore": null
+    },
+    {
+      "id": "tt8416360",
+      "url": "https://www.imdb.com/title/tt8416360/",
+      "primaryTitle": "The Badalisc",
+      "originalTitle": "The Badalisc",
+      "type": "movie",
+      "description": null,
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BZGQzMmU0YjEtYmFiNi00OTc0LWI0MGItMjAwZTk2YmEyOWI0XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZGQzMmU0YjEtYmFiNi00OTc0LWI0MGItMjAwZTk2YmEyOWI0XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZGQzMmU0YjEtYmFiNi00OTc0LWI0MGItMjAwZTk2YmEyOWI0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZGQzMmU0YjEtYmFiNi00OTc0LWI0MGItMjAwZTk2YmEyOWI0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": null,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["FR"],
+      "externalLinks": null,
+      "spokenLanguages": null,
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt27677778",
+      "url": "https://www.imdb.com/title/tt27677778/",
+      "primaryTitle": "Eternal Youth",
+      "originalTitle": "Eternal Youth",
+      "type": "movie",
+      "description": null,
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": null,
+      "endYear": null,
+      "runtimeMinutes": 168,
+      "genres": ["Animation"],
+      "interests": null,
+      "countriesOfOrigin": null,
+      "externalLinks": null,
+      "spokenLanguages": null,
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt13551840",
+      "url": "https://www.imdb.com/title/tt13551840/",
+      "primaryTitle": "Captain Vidyut",
+      "originalTitle": "Captain Vidyut",
+      "type": "movie",
+      "description": null,
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMzY5YWZlZGQtMDMyYS00Zjk1LWI2NzAtYjAxYzFiZjFlNTg5XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMzY5YWZlZGQtMDMyYS00Zjk1LWI2NzAtYjAxYzFiZjFlNTg5XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMzY5YWZlZGQtMDMyYS00Zjk1LWI2NzAtYjAxYzFiZjFlNTg5XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMzY5YWZlZGQtMDMyYS00Zjk1LWI2NzAtYjAxYzFiZjFlNTg5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2020-11-27",
+      "startYear": 2020,
+      "endYear": null,
+      "runtimeMinutes": 77,
+      "genres": ["Action", "Animation", "Comedy"],
+      "interests": ["Action", "Animation", "Comedy"],
+      "countriesOfOrigin": ["IN"],
+      "externalLinks": null,
+      "spokenLanguages": ["hi"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0833176",
+          "name": "Parijat Animation Films"
+        },
+        {
+          "id": "co0216738",
+          "name": "Shemaroo Entertainment"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 6.9,
+      "numVotes": 20,
+      "metascore": null
+    },
+    {
+      "id": "tt0092917",
+      "url": "https://www.imdb.com/title/tt0092917/",
+      "primaryTitle": "Dot and the Smugglers",
+      "originalTitle": "Dot and the Smugglers",
+      "type": "movie",
+      "description": "Dot and her friends attempt to foil the plans of an evil circus owner, who is capturing wildlife and selling it on the black market.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMjcxOTQ5MmQtNTk1NC00ZmJkLWE4NmMtZTBhZGNmMzM3YzVkXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjcxOTQ5MmQtNTk1NC00ZmJkLWE4NmMtZTBhZGNmMzM3YzVkXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjcxOTQ5MmQtNTk1NC00ZmJkLWE4NmMtZTBhZGNmMzM3YzVkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjcxOTQ5MmQtNTk1NC00ZmJkLWE4NmMtZTBhZGNmMzM3YzVkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "1987-04-04",
+      "startYear": 1987,
+      "endYear": null,
+      "runtimeMinutes": 75,
+      "genres": ["Animation", "Family"],
+      "interests": ["Animation", "Family"],
+      "countriesOfOrigin": ["AU"],
+      "externalLinks": null,
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0021708",
+          "name": "Yoram Gross Films"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 6.5,
+      "numVotes": 66,
+      "metascore": null
+    },
+    {
+      "id": "tt0119170",
+      "url": "https://www.imdb.com/title/tt0119170/",
+      "primaryTitle": "The Fearless Four",
+      "originalTitle": "Die furchtlosen Vier",
+      "type": "movie",
+      "description": "The popular children\u0027s tale about a donkey, a dog, a cat, and a rooster who are on their way to the slaughterhouse when they get a lucky break and escape.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BZWExOWQ3NTAtMWU3YS00NGYyLWFiYmUtMzgxZmJmNDYwN2YxXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZWExOWQ3NTAtMWU3YS00NGYyLWFiYmUtMzgxZmJmNDYwN2YxXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZWExOWQ3NTAtMWU3YS00NGYyLWFiYmUtMzgxZmJmNDYwN2YxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZWExOWQ3NTAtMWU3YS00NGYyLWFiYmUtMzgxZmJmNDYwN2YxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": "Not Rated",
+      "isAdult": false,
+      "releaseDate": "1998-05-07",
+      "startYear": 1997,
+      "endYear": null,
+      "runtimeMinutes": 89,
+      "genres": ["Adventure", "Animation", "Comedy"],
+      "interests": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Musical"
+      ],
+      "countriesOfOrigin": ["DE", "US"],
+      "externalLinks": null,
+      "spokenLanguages": ["en", "de"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0002663",
+          "name": "Warner Bros."
+        },
+        {
+          "id": "co0023183",
+          "name": "Bioskop Film"
+        },
+        {
+          "id": "co0106908",
+          "name": "Munich Animation Film"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 5.8,
+      "numVotes": 369,
+      "metascore": null
+    },
+    {
+      "id": "tt0365659",
+      "url": "https://www.imdb.com/title/tt0365659/",
+      "primaryTitle": "Raining Cats and Frogs",
+      "originalTitle": "La proph\u00e9tie des grenouilles",
+      "type": "movie",
+      "description": "It\u0027s a catastrophe! A flood has hit our planet and an unusual group of people are all that remains. Led by Ferdinand, a modern day Noah, this little group have managed to defy the furiously raging elements. People and animals alike are dragged through this incredible whirlpool of an adventure.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMDE4YjNjOTktNDE3OC00ZGU1LTk4ODUtNDFlNTIwYjgwNWQzXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMDE4YjNjOTktNDE3OC00ZGU1LTk4ODUtNDFlNTIwYjgwNWQzXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMDE4YjNjOTktNDE3OC00ZGU1LTk4ODUtNDFlNTIwYjgwNWQzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMDE4YjNjOTktNDE3OC00ZGU1LTk4ODUtNDFlNTIwYjgwNWQzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=pYBPhnliGPI",
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2003-12-03",
+      "startYear": 2003,
+      "endYear": null,
+      "runtimeMinutes": 90,
+      "genres": ["Adventure", "Animation", "Family"],
+      "interests": ["Adventure", "Animation", "Family", "Fantasy"],
+      "countriesOfOrigin": ["FR"],
+      "externalLinks": ["http://www.laprophetiedesgrenouilles.com/"],
+      "spokenLanguages": ["fr"],
+      "filmingLocations": ["Valence, Dr\u00f4me, France"],
+      "productionCompanies": [
+        {
+          "id": "co0028384",
+          "name": "Folimage"
+        },
+        {
+          "id": "co0056755",
+          "name": "France 2 Cin\u00e9ma"
+        },
+        {
+          "id": "co0068476",
+          "name": "Rh\u00f4ne-Alpes Cin\u00e9ma"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 64947,
+      "averageRating": 6.6,
+      "numVotes": 1086,
+      "metascore": null
+    },
+    {
+      "id": "tt37673400",
+      "url": "https://www.imdb.com/title/tt37673400/",
+      "primaryTitle": "The New Little Mermaid: Ocean Girl",
+      "originalTitle": "The New Little Mermaid: Ocean Girl",
+      "type": "movie",
+      "description": null,
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": 2021,
+      "endYear": null,
+      "runtimeMinutes": 82,
+      "genres": ["Animation"],
+      "interests": null,
+      "countriesOfOrigin": null,
+      "externalLinks": null,
+      "spokenLanguages": null,
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt13504488",
+      "url": "https://www.imdb.com/title/tt13504488/",
+      "primaryTitle": "Fish School: Adventures with Jellyfish",
+      "originalTitle": "Fish School: Adventures with Jellyfish",
+      "type": "movie",
+      "description": "Fish School is in session. Professor Shark has a new lesson for the little ones: they are going to learn all about glowing, gooey, graceful and giant - jellyfish. It\u0027s Fish School: Adventures With Jellyfish.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BODZkYzAzNjUtYjhiMy00YTU1LTg5MTItMmNmNzRlMzYzN2JmXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BODZkYzAzNjUtYjhiMy00YTU1LTg5MTItMmNmNzRlMzYzN2JmXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BODZkYzAzNjUtYjhiMy00YTU1LTg5MTItMmNmNzRlMzYzN2JmXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BODZkYzAzNjUtYjhiMy00YTU1LTg5MTItMmNmNzRlMzYzN2JmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2021-05-25",
+      "startYear": 2021,
+      "endYear": null,
+      "runtimeMinutes": 68,
+      "genres": ["Animation", "Documentary", "Family"],
+      "interests": ["Animation", "Documentary", "Family"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": ["https://vimeo.com/469973569/f75203971e"],
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt1485096",
+      "url": "https://www.imdb.com/title/tt1485096/",
+      "primaryTitle": "The Prodigy",
+      "originalTitle": "The Prodigy",
+      "type": "movie",
+      "description": "An animated action comedy that follows the quest of a young panda girl named KG, the Kung-Fu Girl. With the help of her brave yet zany Master Panda, KG must rescue the handsome Prince Po and restore justice to her beautiful kingdom. During her adventure, KG learns that there is no limit to what she can accomplish, if she believes in herself.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMGFkZjQyM2UtYTJkYy00ZmNkLTkzNWQtMTA5OTUwMTQ5NWQ3XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMGFkZjQyM2UtYTJkYy00ZmNkLTkzNWQtMTA5OTUwMTQ5NWQ3XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMGFkZjQyM2UtYTJkYy00ZmNkLTkzNWQtMTA5OTUwMTQ5NWQ3XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMGFkZjQyM2UtYTJkYy00ZmNkLTkzNWQtMTA5OTUwMTQ5NWQ3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=34PEAK-kE1g",
+      "contentRating": "PG",
+      "isAdult": false,
+      "releaseDate": "2009-07-07",
+      "startYear": 2009,
+      "endYear": null,
+      "runtimeMinutes": 77,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": null,
+      "spokenLanguages": ["en"],
+      "filmingLocations": ["Glendale, California, USA"],
+      "productionCompanies": [
+        {
+          "id": "co0280463",
+          "name": "Prevalent Entertainment"
+        }
+      ],
+      "budget": 389000,
+      "grossWorldwide": 144652,
+      "averageRating": 1.8,
+      "numVotes": 370,
+      "metascore": null
+    },
+    {
+      "id": "tt31152244",
+      "url": "https://www.imdb.com/title/tt31152244/",
+      "primaryTitle": "Yumi\u0027s Cells: The Movie",
+      "originalTitle": "Yumiui Sepodeul Deo Mubi",
+      "type": "movie",
+      "description": "Explores growth of Yumi an office worker and the myriad of cells inside her brain in imaginative ways.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMzI4YzkyYzEtNjdiNi00NGM5LTliMmMtZGI3YjdlOThkOTE1XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMzI4YzkyYzEtNjdiNi00NGM5LTliMmMtZGI3YjdlOThkOTE1XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMzI4YzkyYzEtNjdiNi00NGM5LTliMmMtZGI3YjdlOThkOTE1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMzI4YzkyYzEtNjdiNi00NGM5LTliMmMtZGI3YjdlOThkOTE1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2024-04-03",
+      "startYear": 2024,
+      "endYear": null,
+      "runtimeMinutes": 93,
+      "genres": ["Animation", "Comedy", "Drama"],
+      "interests": [
+        "Computer Animation",
+        "Psychological Drama",
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "countriesOfOrigin": ["KR"],
+      "externalLinks": null,
+      "spokenLanguages": ["ko"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0829508",
+          "name": "Locus"
+        },
+        {
+          "id": "co0829509",
+          "name": "Sidus Animation"
+        },
+        {
+          "id": "co0774982",
+          "name": "Studio N"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 500544,
+      "averageRating": 6.3,
+      "numVotes": 55,
+      "metascore": null
+    },
+    {
+      "id": "tt29616566",
+      "url": "https://www.imdb.com/title/tt29616566/",
+      "primaryTitle": "King Khat",
+      "originalTitle": "King Khat",
+      "type": "movie",
+      "description": "Israeli chemist becomes the 21st century\u0027s most notorious drug baron after inventing a legal psychoactive drug from Cathinone. As his empire grows, he must navigate legal and ethical challenges while maintaining his power and influence.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BYmJmMDg4NTctM2JmYS00ZjYxLTliNjYtNjk1OGU1YTc2N2UwXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYmJmMDg4NTctM2JmYS00ZjYxLTliNjYtNjk1OGU1YTc2N2UwXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYmJmMDg4NTctM2JmYS00ZjYxLTliNjYtNjk1OGU1YTc2N2UwXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYmJmMDg4NTctM2JmYS00ZjYxLTliNjYtNjk1OGU1YTc2N2UwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=NLX26ZrV52s",
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2024-02-15",
+      "startYear": 2023,
+      "endYear": null,
+      "runtimeMinutes": 74,
+      "genres": ["Animation", "Documentary"],
+      "interests": ["Animation", "Documentary"],
+      "countriesOfOrigin": ["IL", "PT"],
+      "externalLinks": null,
+      "spokenLanguages": ["he", "en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0481846",
+          "name": "Daroma Productions"
+        },
+        {
+          "id": "co0875631",
+          "name": "Spamflix"
+        }
+      ],
+      "budget": 470000,
+      "grossWorldwide": null,
+      "averageRating": 7.7,
+      "numVotes": 23,
+      "metascore": null
+    },
+    {
+      "id": "tt0872231",
+      "url": "https://www.imdb.com/title/tt0872231/",
+      "primaryTitle": "Het verloren land",
+      "originalTitle": "Het verloren land",
+      "type": "movie",
+      "description": null,
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMzI4NDg3MzItODMzYy00NmNkLThkMjctMDE4ODA5ZWUwMTcwXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMzI4NDg3MzItODMzYy00NmNkLThkMjctMDE4ODA5ZWUwMTcwXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMzI4NDg3MzItODMzYy00NmNkLThkMjctMDE4ODA5ZWUwMTcwXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMzI4NDg3MzItODMzYy00NmNkLThkMjctMDE4ODA5ZWUwMTcwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": 2006,
+      "endYear": null,
+      "runtimeMinutes": 58,
+      "genres": ["Animation", "Documentary", "Drama"],
+      "interests": ["Animation", "Documentary", "Drama"],
+      "countriesOfOrigin": ["NL"],
+      "externalLinks": null,
+      "spokenLanguages": ["nl"],
+      "filmingLocations": ["Netherlands"],
+      "productionCompanies": [
+        {
+          "id": "co0559536",
+          "name": "Phanta Film"
+        },
+        {
+          "id": "co0190105",
+          "name": "Dieptescherpte"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 6.3,
+      "numVotes": 13,
+      "metascore": null
+    },
+    {
+      "id": "tt2056607",
+      "url": "https://www.imdb.com/title/tt2056607/",
+      "primaryTitle": "In the Shadow of No Towers",
+      "originalTitle": "In the Shadow of No Towers",
+      "type": "movie",
+      "description": "Art Spiegelman\u0027s comic of the same title is animated and presented with narration and music.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMjIxOTg5NDk5N15BMl5BanBnXkFtZTcwNzEwNDk5Ng@@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjIxOTg5NDk5N15BMl5BanBnXkFtZTcwNzEwNDk5Ng@@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjIxOTg5NDk5N15BMl5BanBnXkFtZTcwNzEwNDk5Ng@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjIxOTg5NDk5N15BMl5BanBnXkFtZTcwNzEwNDk5Ng@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2011-09-06",
+      "startYear": 2011,
+      "endYear": null,
+      "runtimeMinutes": 53,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": null,
+      "spokenLanguages": ["en", "it"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0353919",
+          "name": "Mode Records"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 6,
+      "numVotes": 26,
+      "metascore": null
+    },
+    {
+      "id": "tt10771324",
+      "url": "https://www.imdb.com/title/tt10771324/",
+      "primaryTitle": "Rat-a-Tat: Ocean Attack!",
+      "originalTitle": "Rat-a-Tat: Ocean Attack!",
+      "type": "movie",
+      "description": "The Earth is in danger. The evil shark, Surmai, is out to take over the world by taking control over the \u0022ocean motor\u0022 which controls the water level and temperature. Doggy Don and company have to save the world. Watch them fight the evil shark and restore the balance of the ocean.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BZjBlMDdhZjMtY2M5ZC00YWVhLWE3ZDQtOTQ4OTNhMjM2MjNlXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZjBlMDdhZjMtY2M5ZC00YWVhLWE3ZDQtOTQ4OTNhMjM2MjNlXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZjBlMDdhZjMtY2M5ZC00YWVhLWE3ZDQtOTQ4OTNhMjM2MjNlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZjBlMDdhZjMtY2M5ZC00YWVhLWE3ZDQtOTQ4OTNhMjM2MjNlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": 2016,
+      "endYear": null,
+      "runtimeMinutes": 73,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": [
+        "https://hero.fandom.com/wiki/File:Rat-A-Tat_%27Ocean_Attack%27-_Funny_Animated_Movie-2_April_Fools_Day_Special_Chotoonz"
+      ],
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0183232",
+          "name": "Toonz Media Group"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 7.8,
+      "numVotes": 9,
+      "metascore": null
+    },
+    {
+      "id": "tt32759277",
+      "url": "https://www.imdb.com/title/tt32759277/",
+      "primaryTitle": "The Gigantic Beard That Was Evil",
+      "originalTitle": "The Gigantic Beard That Was Evil",
+      "type": "movie",
+      "description": null,
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMzY5ZmI0MmQtYTZlMi00NWVlLWFlMmEtZGJmZGE2ODUyZTE0XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMzY5ZmI0MmQtYTZlMi00NWVlLWFlMmEtZGJmZGE2ODUyZTE0XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMzY5ZmI0MmQtYTZlMi00NWVlLWFlMmEtZGJmZGE2ODUyZTE0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMzY5ZmI0MmQtYTZlMi00NWVlLWFlMmEtZGJmZGE2ODUyZTE0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": null,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["GB"],
+      "externalLinks": null,
+      "spokenLanguages": null,
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt28948431",
+      "url": "https://www.imdb.com/title/tt28948431/",
+      "primaryTitle": "Ah My Job Hunting Goddess: Fans Only aka A Dirty Shame Part 2",
+      "originalTitle": "Ah My Job Hunting Goddess: Fans Only aka A Dirty Shame Part 2",
+      "type": "movie",
+      "description": "When a Security Camera Sex Video of Belldandy performing Oral Sex on her Bosses on the Job goes viral on the internet and gets her fired, Belldandy decides to start her own Fans Only Adult Video Account.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BNDAzMmU4OTMtYjA1Yy00Y2E2LWEzMTgtNzgzYjU3NjIzZjcyXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNDAzMmU4OTMtYjA1Yy00Y2E2LWEzMTgtNzgzYjU3NjIzZjcyXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNDAzMmU4OTMtYjA1Yy00Y2E2LWEzMTgtNzgzYjU3NjIzZjcyXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNDAzMmU4OTMtYjA1Yy00Y2E2LWEzMTgtNzgzYjU3NjIzZjcyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2023-07-04",
+      "startYear": 2023,
+      "endYear": null,
+      "runtimeMinutes": 113,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": [
+        "https://filmfreeway.com/AhMyJobHuntingGoddessFansOnlyakaADirtyShamePart2SneakPreviewNOSOUNDTRACK"
+      ],
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0746710",
+          "name": "Kadian\u0027s Trash Bin Productions"
+        }
+      ],
+      "budget": 100,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt6251100",
+      "url": "https://www.imdb.com/title/tt6251100/",
+      "primaryTitle": "Desert Mirage",
+      "originalTitle": "Desert Mirage",
+      "type": "movie",
+      "description": "An unstable, aspiring cartoonist tries to reconnect with his brother and deal with his abusive father while at the mercy of his own creations.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMjAyMDYyMjgtMjY2ZC00MGE0LTljNjgtYTg3MWQwZDVkMDYwXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjAyMDYyMjgtMjY2ZC00MGE0LTljNjgtYTg3MWQwZDVkMDYwXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjAyMDYyMjgtMjY2ZC00MGE0LTljNjgtYTg3MWQwZDVkMDYwXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjAyMDYyMjgtMjY2ZC00MGE0LTljNjgtYTg3MWQwZDVkMDYwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2016-12-25",
+      "startYear": 2016,
+      "endYear": null,
+      "runtimeMinutes": 100,
+      "genres": ["Animation", "Comedy", "Fantasy"],
+      "interests": ["Adult Animation", "Animation", "Comedy", "Fantasy"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": ["http://www.facebook.com/desertmiragemovie"],
+      "spokenLanguages": ["en"],
+      "filmingLocations": ["San Jose, California, USA"],
+      "productionCompanies": [
+        {
+          "id": "co0237961",
+          "name": "Wild Dogs Productions"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 6.9,
+      "numVotes": 26,
+      "metascore": null
+    },
+    {
+      "id": "tt6015960",
+      "url": "https://www.imdb.com/title/tt6015960/",
+      "primaryTitle": "Shochan",
+      "originalTitle": "Shochan",
+      "type": "movie",
+      "description": null,
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": null,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": null,
+      "spokenLanguages": null,
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt1058781",
+      "url": "https://www.imdb.com/title/tt1058781/",
+      "primaryTitle": "El rat\u00f3n P\u00e9rez 2",
+      "originalTitle": "El rat\u00f3n P\u00e9rez 2",
+      "type": "movie",
+      "description": "The story of the little mouse continue with new adventures. Perez now has also a daily-time job. He works at a pearl factory by day and by night he takes on his old habits: collecting the tooth hidden under the childrens pillows. He never takes a time for rest and slowly he\u0027s gonna feel this thing. In one of the night, Perez must go to Lucas to steal his fallen teeth. Just arriving there, he notices that the kid is still awake and he must wait. The funny adventure begins now when Perez falls asleep in Lucas\u0027 house.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BZDVlZmY0MTYtZjcyYi00ODM2LTk0YjEtNDlkMTA2NzUwMGE1XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZDVlZmY0MTYtZjcyYi00ODM2LTk0YjEtNDlkMTA2NzUwMGE1XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZDVlZmY0MTYtZjcyYi00ODM2LTk0YjEtNDlkMTA2NzUwMGE1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZDVlZmY0MTYtZjcyYi00ODM2LTk0YjEtNDlkMTA2NzUwMGE1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=AT9t7bQHjnk",
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2008-12-12",
+      "startYear": 2008,
+      "endYear": null,
+      "runtimeMinutes": 90,
+      "genres": ["Adventure", "Animation", "Comedy"],
+      "interests": ["Adventure", "Animation", "Comedy", "Family", "Fantasy"],
+      "countriesOfOrigin": ["ES", "AR"],
+      "externalLinks": ["http://www.perez2lapelicula.com/"],
+      "spokenLanguages": ["es"],
+      "filmingLocations": ["Buenos Aires, Federal District, Argentina"],
+      "productionCompanies": [
+        {
+          "id": "co0080776",
+          "name": "Castelao Producciones"
+        },
+        {
+          "id": "co0031405",
+          "name": "Filmax Animation"
+        },
+        {
+          "id": "co0049152",
+          "name": "Patagonik Film Group"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 3141656,
+      "averageRating": 3.7,
+      "numVotes": 314,
+      "metascore": null
+    },
+    {
+      "id": "tt31809821",
+      "url": "https://www.imdb.com/title/tt31809821/",
+      "primaryTitle": "Maya, Give Me a Title",
+      "originalTitle": "Maya, donne-moi un titre",
+      "type": "movie",
+      "description": "A father and daughter maintain their bond despite living in different countries through an imaginative nightly ritual where she suggests a title and he creates short animated films starring her as the hero.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BNmVlOGUyNWMtMjVhYS00YjU2LTljZGUtMjdhY2YxMWE0NjlhXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNmVlOGUyNWMtMjVhYS00YjU2LTljZGUtMjdhY2YxMWE0NjlhXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNmVlOGUyNWMtMjVhYS00YjU2LTljZGUtMjdhY2YxMWE0NjlhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNmVlOGUyNWMtMjVhYS00YjU2LTljZGUtMjdhY2YxMWE0NjlhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=k9x1JtJTEEQ",
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2024-10-02",
+      "startYear": 2024,
+      "endYear": null,
+      "runtimeMinutes": 61,
+      "genres": ["Adventure", "Animation", "Comedy"],
+      "interests": ["Adventure", "Animation", "Comedy", "Family", "Fantasy"],
+      "countriesOfOrigin": ["FR"],
+      "externalLinks": null,
+      "spokenLanguages": ["fr"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0309685",
+          "name": "Partizan Films"
+        },
+        {
+          "id": "co0346444",
+          "name": "Cin\u00e9+"
+        },
+        {
+          "id": "co0031991",
+          "name": "Centre national du cin\u00e9ma et de l\u0027image anim\u00e9e (CNC)"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 72078,
+      "averageRating": 6.5,
+      "numVotes": 75,
+      "metascore": null
+    },
+    {
+      "id": "tt28297017",
+      "url": "https://www.imdb.com/title/tt28297017/",
+      "primaryTitle": "Pugsville Caper",
+      "originalTitle": "Pugsville Caper",
+      "type": "movie",
+      "description": null,
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": null,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": null,
+      "spokenLanguages": null,
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt27556919",
+      "url": "https://www.imdb.com/title/tt27556919/",
+      "primaryTitle": "Fred Rooster",
+      "originalTitle": "Fred Rooster",
+      "type": "movie",
+      "description": "The Adventures of Pillow Manufacturer Executive Fred Rooster in Today\u0027s Crazy Modern World.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMWYwNmZlNjUtNWNhNy00N2I1LWE5NjQtNWM3MWY3YzljMmQzXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMWYwNmZlNjUtNWNhNy00N2I1LWE5NjQtNWM3MWY3YzljMmQzXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMWYwNmZlNjUtNWNhNy00N2I1LWE5NjQtNWM3MWY3YzljMmQzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMWYwNmZlNjUtNWNhNy00N2I1LWE5NjQtNWM3MWY3YzljMmQzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2023-04-15",
+      "startYear": 2023,
+      "endYear": null,
+      "runtimeMinutes": 75,
+      "genres": ["Animation", "Comedy", "Musical"],
+      "interests": ["Animation", "Comedy"],
+      "countriesOfOrigin": ["CA", "DE"],
+      "externalLinks": ["https://morfilm.co/"],
+      "spokenLanguages": ["en"],
+      "filmingLocations": ["Toronto, Ontario, Canada"],
+      "productionCompanies": [
+        {
+          "id": "co0731241",
+          "name": "Mor Film"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 9.4,
+      "numVotes": 131,
+      "metascore": null
+    },
+    {
+      "id": "tt33820209",
+      "url": "https://www.imdb.com/title/tt33820209/",
+      "primaryTitle": "Froggy 2000",
+      "originalTitle": "Froggy 2000",
+      "type": "movie",
+      "description": null,
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": 2000,
+      "endYear": null,
+      "runtimeMinutes": 83,
+      "genres": ["Animation", "Fantasy"],
+      "interests": ["Animation", "Fantasy"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": null,
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt2008534",
+      "url": "https://www.imdb.com/title/tt2008534/",
+      "primaryTitle": "Hong Gil-dong 2084",
+      "originalTitle": "Hong Gil-dong 2084",
+      "type": "movie",
+      "description": null,
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BYmYwNDlhZTItY2RjNy00NWMxLWJhODMtMDVkNjA2NjAxNmZjXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYmYwNDlhZTItY2RjNy00NWMxLWJhODMtMDVkNjA2NjAxNmZjXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYmYwNDlhZTItY2RjNy00NWMxLWJhODMtMDVkNjA2NjAxNmZjXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYmYwNDlhZTItY2RjNy00NWMxLWJhODMtMDVkNjA2NjAxNmZjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2011-08-18",
+      "startYear": 2011,
+      "endYear": null,
+      "runtimeMinutes": 85,
+      "genres": ["Adventure", "Animation"],
+      "interests": ["Adventure", "Animation"],
+      "countriesOfOrigin": ["KR"],
+      "externalLinks": null,
+      "spokenLanguages": null,
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 5.5,
+      "numVotes": 19,
+      "metascore": null
+    },
+    {
+      "id": "tt0268531",
+      "url": "https://www.imdb.com/title/tt0268531/",
+      "primaryTitle": "Pettson och Findus - Kattonauten",
+      "originalTitle": "Pettson och Findus - Kattonauten",
+      "type": "movie",
+      "description": "The cat Findus decides he wants to write a letter to the King, because Pettson says that kittens don\u0027t wash or pay rent. While Findus waits for a response, he and the old man decide to go on a trip.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMjIwOTI4NDc4Ml5BMl5BanBnXkFtZTgwMjE2NTAzMTE@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjIwOTI4NDc4Ml5BMl5BanBnXkFtZTgwMjE2NTAzMTE@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjIwOTI4NDc4Ml5BMl5BanBnXkFtZTgwMjE2NTAzMTE@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjIwOTI4NDc4Ml5BMl5BanBnXkFtZTgwMjE2NTAzMTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2000-10-27",
+      "startYear": 2000,
+      "endYear": null,
+      "runtimeMinutes": 80,
+      "genres": ["Animation", "Family"],
+      "interests": ["Animation", "Family"],
+      "countriesOfOrigin": ["SE", "GB", "CA", "RU", "FR"],
+      "externalLinks": null,
+      "spokenLanguages": ["sv"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0007729",
+          "name": "Happy Life Animation"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 2795383,
+      "averageRating": 6.2,
+      "numVotes": 466,
+      "metascore": null
+    },
+    {
+      "id": "tt31886848",
+      "url": "https://www.imdb.com/title/tt31886848/",
+      "primaryTitle": "The Magic of Santa Claus",
+      "originalTitle": "The Magic of Santa Claus",
+      "type": "movie",
+      "description": "Despite receiving a heartbreaking diagnosis, Santa Claus moves on with his life as if nothing happened.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BYzI4YjFkMzgtMzdiNS00OGEzLWFkYzAtMmUyY2VmNGM0ODg3XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYzI4YjFkMzgtMzdiNS00OGEzLWFkYzAtMmUyY2VmNGM0ODg3XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYzI4YjFkMzgtMzdiNS00OGEzLWFkYzAtMmUyY2VmNGM0ODg3XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYzI4YjFkMzgtMzdiNS00OGEzLWFkYzAtMmUyY2VmNGM0ODg3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2025-12-25",
+      "startYear": 2025,
+      "endYear": null,
+      "runtimeMinutes": 9,
+      "genres": ["Adventure", "Animation", "Fantasy"],
+      "interests": ["Adventure", "Animation", "Fantasy"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": ["https://www.facebook.com/themagicofsantaclausfilm/"],
+      "spokenLanguages": ["en"],
+      "filmingLocations": ["Lapland, Finland"],
+      "productionCompanies": [
+        {
+          "id": "co0691760",
+          "name": "Sacred Ember Films"
+        }
+      ],
+      "budget": 50000,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt0478450",
+      "url": "https://www.imdb.com/title/tt0478450/",
+      "primaryTitle": "Los balunis",
+      "originalTitle": "Los balunis",
+      "type": "movie",
+      "description": null,
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BZmJlMjgzMzItZDViMS00OTMzLWIxYzUtZDAyNWFjODhhOWFmXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZmJlMjgzMzItZDViMS00OTMzLWIxYzUtZDAyNWFjODhhOWFmXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZmJlMjgzMzItZDViMS00OTMzLWIxYzUtZDAyNWFjODhhOWFmXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZmJlMjgzMzItZDViMS00OTMzLWIxYzUtZDAyNWFjODhhOWFmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": 2004,
+      "endYear": null,
+      "runtimeMinutes": 79,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["ES"],
+      "externalLinks": null,
+      "spokenLanguages": ["eu", "es"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0077719",
+          "name": "Barton Films"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 5.5,
+      "numVotes": 26,
+      "metascore": null
+    },
+    {
+      "id": "tt37809103",
+      "url": "https://www.imdb.com/title/tt37809103/",
+      "primaryTitle": "Moonfish",
+      "originalTitle": "Moonfish",
+      "type": "movie",
+      "description": null,
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": null,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Animation", "Sci-Fi"],
+      "interests": null,
+      "countriesOfOrigin": null,
+      "externalLinks": null,
+      "spokenLanguages": null,
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt3194482",
+      "url": "https://www.imdb.com/title/tt3194482/",
+      "primaryTitle": "Kak poymat pero Zhar-Ptitsy",
+      "originalTitle": "Kak poymat pero Zhar-Ptitsy",
+      "type": "movie",
+      "description": null,
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BNTJmN2Q5ZmMtZDA0Yy00NjhkLThmZDItMjAyMTFiOTg0ZGIxXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNTJmN2Q5ZmMtZDA0Yy00NjhkLThmZDItMjAyMTFiOTg0ZGIxXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNTJmN2Q5ZmMtZDA0Yy00NjhkLThmZDItMjAyMTFiOTg0ZGIxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNTJmN2Q5ZmMtZDA0Yy00NjhkLThmZDItMjAyMTFiOTg0ZGIxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2013-10-24",
+      "startYear": 2013,
+      "endYear": null,
+      "runtimeMinutes": 80,
+      "genres": ["Animation", "Family"],
+      "interests": ["Animation", "Family"],
+      "countriesOfOrigin": ["RU"],
+      "externalLinks": null,
+      "spokenLanguages": ["ru"],
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": 1644198,
+      "averageRating": 4.8,
+      "numVotes": 127,
+      "metascore": null
+    },
+    {
+      "id": "tt8103098",
+      "url": "https://www.imdb.com/title/tt8103098/",
+      "primaryTitle": "Z-Rider",
+      "originalTitle": "Z-Rider",
+      "type": "movie",
+      "description": "Bounty hunter Nik Lukas and his un-dead partner Eddie must survive a gauntlet of challenges through a zombie-infested landscape in their one of a kind super-car Luci in order to prevent a total Zombie Apocalypse.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BOWU5NjI4MzktNGI1Ny00ZDg1LTg0OTMtMGJjMDNlMTU1N2UxXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BOWU5NjI4MzktNGI1Ny00ZDg1LTg0OTMtMGJjMDNlMTU1N2UxXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BOWU5NjI4MzktNGI1Ny00ZDg1LTg0OTMtMGJjMDNlMTU1N2UxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BOWU5NjI4MzktNGI1Ny00ZDg1LTg0OTMtMGJjMDNlMTU1N2UxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": null,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Action", "Adventure", "Animation"],
+      "interests": ["Action", "Adventure", "Animation", "Horror"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": null,
+      "spokenLanguages": null,
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0689293",
+          "name": "Dirty Cowboy Productions"
+        },
+        {
+          "id": "co0689293",
+          "name": "Dirty Cowboy Productions"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt1693039",
+      "url": "https://www.imdb.com/title/tt1693039/",
+      "primaryTitle": "Pinocchio",
+      "originalTitle": "Pinocchio",
+      "type": "movie",
+      "description": "In this dazzling, delightful re-imagining of the classic family legend, a playful puppet comes to life and experiences incredible adventures in his struggle to become human.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BNDU1YWFkOTEtMTFiNC00MDZiLWE0NjQtZmU5ZjczYTYzMjUzXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNDU1YWFkOTEtMTFiNC00MDZiLWE0NjQtZmU5ZjczYTYzMjUzXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNDU1YWFkOTEtMTFiNC00MDZiLWE0NjQtZmU5ZjczYTYzMjUzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNDU1YWFkOTEtMTFiNC00MDZiLWE0NjQtZmU5ZjczYTYzMjUzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=63t52VsnETc",
+      "contentRating": "PG",
+      "isAdult": false,
+      "releaseDate": "2013-02-20",
+      "startYear": 2012,
+      "endYear": null,
+      "runtimeMinutes": 75,
+      "genres": ["Adventure", "Animation", "Family"],
+      "interests": ["Adventure", "Animation", "Family", "Fantasy", "Musical"],
+      "countriesOfOrigin": ["IT", "LU", "FR", "BE"],
+      "externalLinks": ["http://thebureaufilms.com/sales/library/pinocchio/"],
+      "spokenLanguages": ["it"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0174284",
+          "name": "2d3D Animations"
+        },
+        {
+          "id": "co0086822",
+          "name": "Cometa Film"
+        },
+        {
+          "id": "co0381591",
+          "name": "Iris Group"
+        }
+      ],
+      "budget": 8000000,
+      "grossWorldwide": 2787008,
+      "averageRating": 6,
+      "numVotes": 402,
+      "metascore": null
+    },
+    {
+      "id": "tt9481954",
+      "url": "https://www.imdb.com/title/tt9481954/",
+      "primaryTitle": "Barbadozhkiny istorii",
+      "originalTitle": "Barbadozhkiny istorii",
+      "type": "movie",
+      "description": null,
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BZDQyOTNjMDMtYmZlMi00NjM0LWE2ZDYtOGQ2ZDMwMjE4MTE2XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZDQyOTNjMDMtYmZlMi00NjM0LWE2ZDYtOGQ2ZDMwMjE4MTE2XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZDQyOTNjMDMtYmZlMi00NjM0LWE2ZDYtOGQ2ZDMwMjE4MTE2XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZDQyOTNjMDMtYmZlMi00NjM0LWE2ZDYtOGQ2ZDMwMjE4MTE2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2017-04-13",
+      "startYear": 2017,
+      "endYear": null,
+      "runtimeMinutes": 60,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["RU"],
+      "externalLinks": null,
+      "spokenLanguages": ["ru"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0726734",
+          "name": "Slyers Animation Studios"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 201,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt3992768",
+      "url": "https://www.imdb.com/title/tt3992768/",
+      "primaryTitle": "The Jungle Bunch 2: The Great Treasure Quest",
+      "originalTitle": "The Jungle Bunch 2: The Great Treasure Quest",
+      "type": "movie",
+      "description": "Your favorite animals are back for an all-new family adventure. Join Maurice, the beloved penguin-tiger, and the Jungle Bunch on their quest for hidden pirate treasure.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMWFjNDk5NWItN2M0Ny00OTVlLWJkNWItMWQ1OTdlNjJlODA0XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMWFjNDk5NWItN2M0Ny00OTVlLWJkNWItMWQ1OTdlNjJlODA0XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMWFjNDk5NWItN2M0Ny00OTVlLWJkNWItMWQ1OTdlNjJlODA0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMWFjNDk5NWItN2M0Ny00OTVlLWJkNWItMWQ1OTdlNjJlODA0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=FxO1x5BBgaw",
+      "contentRating": "Not Rated",
+      "isAdult": false,
+      "releaseDate": "2015-06-18",
+      "startYear": 2014,
+      "endYear": null,
+      "runtimeMinutes": 46,
+      "genres": ["Adventure", "Animation", "Family"],
+      "interests": ["Adventure", "Animation", "Family"],
+      "countriesOfOrigin": ["FR"],
+      "externalLinks": [
+        "http://tatprod.com/projets/les-as-de-la-jungle-le-tresor-du-vieux-jim/"
+      ],
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0019617",
+          "name": "TAT Productions"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 226456,
+      "averageRating": 6.8,
+      "numVotes": 421,
+      "metascore": null
+    },
+    {
+      "id": "tt1288461",
+      "url": "https://www.imdb.com/title/tt1288461/",
+      "primaryTitle": "Gurren Lagann the Movie: Childhood\u0027s End",
+      "originalTitle": "Gekij\u00f4 ban Tengen toppa guren ragan: Guren hen",
+      "type": "movie",
+      "description": "Simon and Kamina, brothers in arms, take upon themselves to venture beyond the borders of their world, reality and imagination. Venturing further and further into a hidden truth that has kept humanity prisoners for millennia.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BNzE3YzdkMWEtM2ZmNy00NzYzLTk4MmItY2YwZDAwOTA2MWQ5XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNzE3YzdkMWEtM2ZmNy00NzYzLTk4MmItY2YwZDAwOTA2MWQ5XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNzE3YzdkMWEtM2ZmNy00NzYzLTk4MmItY2YwZDAwOTA2MWQ5XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNzE3YzdkMWEtM2ZmNy00NzYzLTk4MmItY2YwZDAwOTA2MWQ5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=yMYEyoTRSbE",
+      "contentRating": "TV-PG",
+      "isAdult": false,
+      "releaseDate": "2008-09-06",
+      "startYear": 2008,
+      "endYear": null,
+      "runtimeMinutes": 112,
+      "genres": ["Action", "Animation", "Comedy"],
+      "interests": [
+        "Anime",
+        "Mecha",
+        "Action",
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "countriesOfOrigin": ["JP"],
+      "externalLinks": ["https://www.gurren-lagann-movie.net/"],
+      "spokenLanguages": ["ja"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0169264",
+          "name": "Dentsu"
+        },
+        {
+          "id": "co0071695",
+          "name": "Gainax"
+        },
+        {
+          "id": "co0190542",
+          "name": "Konami Digital Entertainment"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 957621,
+      "averageRating": 7.6,
+      "numVotes": 2110,
+      "metascore": null
+    },
+    {
+      "id": "tt6871460",
+      "url": "https://www.imdb.com/title/tt6871460/",
+      "primaryTitle": "Pirate Cat",
+      "originalTitle": "Pirate Cat",
+      "type": "movie",
+      "description": "A band of pirates are transformed into cats, and must go on a quest to become human again.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BZGI1MDVjYzMtYzI4NS00NjM5LWFhMWMtZDVlNzY1YWQ1OTIxXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZGI1MDVjYzMtYzI4NS00NjM5LWFhMWMtZDVlNzY1YWQ1OTIxXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZGI1MDVjYzMtYzI4NS00NjM5LWFhMWMtZDVlNzY1YWQ1OTIxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZGI1MDVjYzMtYzI4NS00NjM5LWFhMWMtZDVlNzY1YWQ1OTIxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": null,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["US", "KR", "CA"],
+      "externalLinks": ["http://www.redrover.co.kr/en/business_en/animation"],
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0391448",
+          "name": "Gulfstream Pictures"
+        },
+        {
+          "id": "co0295039",
+          "name": "Redrover Co. Ltd."
+        },
+        {
+          "id": "co0294917",
+          "name": "ToonBox Entertainment"
+        }
+      ],
+      "budget": 45000000,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt8744572",
+      "url": "https://www.imdb.com/title/tt8744572/",
+      "primaryTitle": "The Adventures of Fujiwara Manchester Movie",
+      "originalTitle": "The Adventures of Fujiwara Manchester Movie",
+      "type": "movie",
+      "description": "Fujiwara Manchester is a space adventurer living in XXVII century who need to fight with a terrible enemy and with the government for a power jewel that could lead to the destruction of the galaxy.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BOTgyMTAxODQtZTI0Mi00MjA3LWJjNzgtMzVlNjlhNjBkMTU5XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BOTgyMTAxODQtZTI0Mi00MjA3LWJjNzgtMzVlNjlhNjBkMTU5XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BOTgyMTAxODQtZTI0Mi00MjA3LWJjNzgtMzVlNjlhNjBkMTU5XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BOTgyMTAxODQtZTI0Mi00MjA3LWJjNzgtMzVlNjlhNjBkMTU5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": 2018,
+      "endYear": null,
+      "runtimeMinutes": 117,
+      "genres": ["Action", "Adventure", "Animation"],
+      "interests": ["Action", "Adventure", "Animation", "Comedy"],
+      "countriesOfOrigin": ["BR"],
+      "externalLinks": ["http://www.umfilmes.com.br/"],
+      "spokenLanguages": ["pt"],
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 8,
+      "numVotes": 30,
+      "metascore": null
+    },
+    {
+      "id": "tt8484250",
+      "url": "https://www.imdb.com/title/tt8484250/",
+      "primaryTitle": "Kidtropolis",
+      "originalTitle": "Kidtropolis",
+      "type": "movie",
+      "description": null,
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMWE0NGE4YTUtYTBkMC00Yjk5LWJmYzktODRkNWYxOGIyOWRkXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMWE0NGE4YTUtYTBkMC00Yjk5LWJmYzktODRkNWYxOGIyOWRkXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMWE0NGE4YTUtYTBkMC00Yjk5LWJmYzktODRkNWYxOGIyOWRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMWE0NGE4YTUtYTBkMC00Yjk5LWJmYzktODRkNWYxOGIyOWRkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": null,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": null,
+      "spokenLanguages": null,
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt36881782",
+      "url": "https://www.imdb.com/title/tt36881782/",
+      "primaryTitle": "Dreamers - The Hunt for Shadowclaw",
+      "originalTitle": "Dreamers - The Hunt for Shadowclaw",
+      "type": "movie",
+      "description": null,
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": null,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Animation", "Family"],
+      "interests": null,
+      "countriesOfOrigin": null,
+      "externalLinks": null,
+      "spokenLanguages": null,
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt3037136",
+      "url": "https://www.imdb.com/title/tt3037136/",
+      "primaryTitle": "Lajka",
+      "originalTitle": "Lajka",
+      "type": "movie",
+      "description": "Life is not easy for Laika, a dog on the outskirts of a big Russian city. She is caught and forcibly retrained to become a pioneer in astronautics. Soon after her lift-off into space, a number of animals follow that are hurriedly launched from Houston and Baikonur. The animals manage to colonize a faraway planet. After a short period of harmonious, undisturbed co-existence with indigenous life forms, however, first human cosmonaut runs ashore on their planet, and they are suddenly in jeopardy.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BNzg3N2ZkYjAtN2Q5NS00NzhiLTliNzAtYmEyNjYxODE5YWFlXkEyXkFqcGc@._V1_.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNzg3N2ZkYjAtN2Q5NS00NzhiLTliNzAtYmEyNjYxODE5YWFlXkEyXkFqcGc@._V1_._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNzg3N2ZkYjAtN2Q5NS00NzhiLTliNzAtYmEyNjYxODE5YWFlXkEyXkFqcGc@._V1_._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNzg3N2ZkYjAtN2Q5NS00NzhiLTliNzAtYmEyNjYxODE5YWFlXkEyXkFqcGc@._V1_._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=4ZARhf3-sHs",
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2017-11-02",
+      "startYear": 2017,
+      "endYear": null,
+      "runtimeMinutes": 88,
+      "genres": ["Animation", "Comedy", "Family"],
+      "interests": [
+        "Stop Motion Animation",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Musical",
+        "Sci-Fi"
+      ],
+      "countriesOfOrigin": ["CZ"],
+      "externalLinks": [
+        "http://lajka.eu/index_eng.html",
+        "http://www.lajka.eu/"
+      ],
+      "spokenLanguages": ["cs"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0436469",
+          "name": "Studio Zvon"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 31081,
+      "averageRating": 5.6,
+      "numVotes": 106,
+      "metascore": null
+    },
+    {
+      "id": "tt31474158",
+      "url": "https://www.imdb.com/title/tt31474158/",
+      "primaryTitle": "Detective Conan: The Million-Dollar Pentagram",
+      "originalTitle": "Meitantei Konan Hyakuman Doru no Michishirube",
+      "type": "movie",
+      "description": "The \u0022truth\u0022 hidden in the sword cuts through the dark night and leads us under the moon. Love and incidents unfold in turbulent ways. ? The treasure battle mystery that will divide the world has begun.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BYjQ4OWRiOTEtMDhjYS00YWEyLWFlNDEtNWJlYmViZjBjNjhhXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYjQ4OWRiOTEtMDhjYS00YWEyLWFlNDEtNWJlYmViZjBjNjhhXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYjQ4OWRiOTEtMDhjYS00YWEyLWFlNDEtNWJlYmViZjBjNjhhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYjQ4OWRiOTEtMDhjYS00YWEyLWFlNDEtNWJlYmViZjBjNjhhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=5sccnTD-KUg",
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2024-04-12",
+      "startYear": 2024,
+      "endYear": null,
+      "runtimeMinutes": 111,
+      "genres": ["Animation", "Mystery", "Romance"],
+      "interests": ["Animation", "Mystery", "Romance"],
+      "countriesOfOrigin": ["JP"],
+      "externalLinks": null,
+      "spokenLanguages": ["ja"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0922312",
+          "name": "Meitantei Conan Production Committee"
+        },
+        {
+          "id": "co0003850",
+          "name": "Nippon Television Network (NTV)"
+        },
+        {
+          "id": "co0011744",
+          "name": "Shogakukan"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 108136957,
+      "averageRating": 6.7,
+      "numVotes": 1707,
+      "metascore": null
+    },
+    {
+      "id": "tt4685636",
+      "url": "https://www.imdb.com/title/tt4685636/",
+      "primaryTitle": "Fantastic Journey to Oz",
+      "originalTitle": "Urfin Dzhyus i ego derevyannye soldaty",
+      "type": "movie",
+      "description": "Young Dorothy leaves for the land of Oz with a group of friends. Upon arrival, the travelers realize that Emerald City has been renamed Urfinville by the cunning and wicked Urfin.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BZGY5OTUxNWMtMmViMi00MGY2LTk5NzctZDlhYjg0Zjk5YWM5XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZGY5OTUxNWMtMmViMi00MGY2LTk5NzctZDlhYjg0Zjk5YWM5XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZGY5OTUxNWMtMmViMi00MGY2LTk5NzctZDlhYjg0Zjk5YWM5XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZGY5OTUxNWMtMmViMi00MGY2LTk5NzctZDlhYjg0Zjk5YWM5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=h5TBPHpkJKE",
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2020-04-07",
+      "startYear": 2017,
+      "endYear": null,
+      "runtimeMinutes": 91,
+      "genres": ["Adventure", "Animation", "Family"],
+      "interests": ["Adventure", "Animation", "Family", "Fantasy"],
+      "countriesOfOrigin": ["RU", "CY"],
+      "externalLinks": [
+        "http://ctb.ru/en/films/urfin-jus-and-his-wooden-soldiers/"
+      ],
+      "spokenLanguages": ["ru"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0137977",
+          "name": "CTB Film Company"
+        },
+        {
+          "id": "co0109502",
+          "name": "Melnitsa Animation Studio"
+        },
+        {
+          "id": "co0371102",
+          "name": "Wizart Animation"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 5970922,
+      "averageRating": 4.7,
+      "numVotes": 395,
+      "metascore": null
+    },
+    {
+      "id": "tt22184094",
+      "url": "https://www.imdb.com/title/tt22184094/",
+      "primaryTitle": "Sirenetta: Part-Time Mermaid",
+      "originalTitle": "Sirenetta: Part-Time Mermaid",
+      "type": "movie",
+      "description": "Nettie, a modern Little Mermaid, is living humanly-ever-after in Provincetown with her fianc\u00e9, Freckles. When an anxious young merperson named Archie and Calypso the Sea Nymph come looking for help though, the part-time mermaid dives back into action. Together, Nettie and her three friends travel the world in search of the Terzetto Treasure; a magical artifact that will stop an evil sea witch and her coven from draining the ocean of life.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMzU1ZTVlMWQtNjI2OS00MzdkLWFhNTUtMGRiNDRmZjA4MDcwXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMzU1ZTVlMWQtNjI2OS00MzdkLWFhNTUtMGRiNDRmZjA4MDcwXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMzU1ZTVlMWQtNjI2OS00MzdkLWFhNTUtMGRiNDRmZjA4MDcwXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMzU1ZTVlMWQtNjI2OS00MzdkLWFhNTUtMGRiNDRmZjA4MDcwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": null,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Adventure", "Animation", "Family"],
+      "interests": ["Adventure", "Animation", "Family", "Fantasy"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": ["https://www.tinysiren.com/sirenetta-movie"],
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0661992",
+          "name": "Tiny Siren Animation"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt10878826",
+      "url": "https://www.imdb.com/title/tt10878826/",
+      "primaryTitle": "Heenseraya",
+      "originalTitle": "Heenseraya",
+      "type": "movie",
+      "description": null,
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": null,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["ES"],
+      "externalLinks": null,
+      "spokenLanguages": ["si"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0761621",
+          "name": "Astrovision"
+        },
+        {
+          "id": "co0761622",
+          "name": "Oxford College of English"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt35854151",
+      "url": "https://www.imdb.com/title/tt35854151/",
+      "primaryTitle": "Pesare Darya",
+      "originalTitle": "Pesare Darya",
+      "type": "movie",
+      "description": null,
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": 2011,
+      "endYear": null,
+      "runtimeMinutes": 80,
+      "genres": ["Animation"],
+      "interests": null,
+      "countriesOfOrigin": null,
+      "externalLinks": null,
+      "spokenLanguages": null,
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt27744687",
+      "url": "https://www.imdb.com/title/tt27744687/",
+      "primaryTitle": "BabyLearning.tv: Spelling with Colors",
+      "originalTitle": "BabyLearning.tv: Spelling with Colors",
+      "type": "movie",
+      "description": "BabyLearning.tv is a super-fun, toddler-friendly way for kids to begin journeying down the road of true learning experience by utilizing educational movies and documentaries. BabyLearning Spelling With Colors is the PERFECT way to get those brains moving in the most fun way possible.",
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": null,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": null,
+      "spokenLanguages": null,
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0619948",
+          "name": "WOWNow Entertainment"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt3859712",
+      "url": "https://www.imdb.com/title/tt3859712/",
+      "primaryTitle": "Star Driver the Movie",
+      "originalTitle": "Sut\u00e2 doraib\u00e2: The Movie",
+      "type": "movie",
+      "description": null,
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BYjhiNTVhMjQtMWM4Yi00NzczLThiNmUtZmVjNjIxZTM1MTE5XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYjhiNTVhMjQtMWM4Yi00NzczLThiNmUtZmVjNjIxZTM1MTE5XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYjhiNTVhMjQtMWM4Yi00NzczLThiNmUtZmVjNjIxZTM1MTE5XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYjhiNTVhMjQtMWM4Yi00NzczLThiNmUtZmVjNjIxZTM1MTE5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=pvgEdQNOxoM",
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2013-02-09",
+      "startYear": 2013,
+      "endYear": null,
+      "runtimeMinutes": 150,
+      "genres": ["Action", "Animation", "Romance"],
+      "interests": [
+        "Anime",
+        "Mecha",
+        "Action",
+        "Animation",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "countriesOfOrigin": ["JP"],
+      "externalLinks": null,
+      "spokenLanguages": ["ja"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co1065062",
+          "name": "Star Driver the Movie Production Committee"
+        },
+        {
+          "id": "co0132285",
+          "name": "Aniplex"
+        },
+        {
+          "id": "co0208579",
+          "name": "Bandai Namco Games"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 5.9,
+      "numVotes": 25,
+      "metascore": null
+    },
+    {
+      "id": "tt4439784",
+      "url": "https://www.imdb.com/title/tt4439784/",
+      "primaryTitle": "Ted Sieger\u0027s Molly Monster - Der Kinofilm",
+      "originalTitle": "Ted Sieger\u0027s Molly Monster - Der Kinofilm",
+      "type": "movie",
+      "description": "Molly Monster is the deeply-loved only-monster of Popo and Etna Monster. She spends her days in familiar surroundings playing with her best friend Edison, a clockwork toy with a life of his own. But when Mama gives birth to an egg (which Papa must hatch) Molly sets out on a journey to find her new place in the family. The journey takes her far away from home and over the Wild Hills to Egg Island, where she is reunited with her Mama and her Papa, and her new mini-monster sibling. \u0022Molly Monster\u0022 deals with the theme of becoming a sister of a brother and the excitement that comes with it from the point of view of a small child. Enchanting and entertaining - a universal preschool adventure.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BODE3MGQyZmYtNGZkMi00YWFjLWIxNDgtYWVjNjY5MDcxMjc5XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BODE3MGQyZmYtNGZkMi00YWFjLWIxNDgtYWVjNjY5MDcxMjc5XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BODE3MGQyZmYtNGZkMi00YWFjLWIxNDgtYWVjNjY5MDcxMjc5XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BODE3MGQyZmYtNGZkMi00YWFjLWIxNDgtYWVjNjY5MDcxMjc5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2016-09-08",
+      "startYear": 2016,
+      "endYear": null,
+      "runtimeMinutes": 72,
+      "genres": ["Adventure", "Animation", "Fantasy"],
+      "interests": ["Adventure", "Animation", "Fantasy"],
+      "countriesOfOrigin": ["CH", "DE", "SE"],
+      "externalLinks": [
+        "https://www.filmportal.de/en/movie/molly-monster_",
+        "http://www.trickstudio.de/#/work/molly_kinofilm"
+      ],
+      "spokenLanguages": ["de", "en", "sv", "fr", "it"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0275366",
+          "name": "Alexandra Schatz Filmproduktion"
+        },
+        {
+          "id": "co0275294",
+          "name": "Little Monster"
+        },
+        {
+          "id": "co0195516",
+          "name": "TrickStudio Lutterbeck"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 39029,
+      "averageRating": 5.9,
+      "numVotes": 135,
+      "metascore": null
+    },
+    {
+      "id": "tt1764578",
+      "url": "https://www.imdb.com/title/tt1764578/",
+      "primaryTitle": "Santa\u0027s Helper",
+      "originalTitle": "Santa\u0027s Helper",
+      "type": "movie",
+      "description": null,
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMjQ4OTM3MTM4NF5BMl5BanBnXkFtZTcwODAxMjg1NA@@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjQ4OTM3MTM4NF5BMl5BanBnXkFtZTcwODAxMjg1NA@@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjQ4OTM3MTM4NF5BMl5BanBnXkFtZTcwODAxMjg1NA@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjQ4OTM3MTM4NF5BMl5BanBnXkFtZTcwODAxMjg1NA@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": null,
+      "endYear": null,
+      "runtimeMinutes": 96,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": null,
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt1135522",
+      "url": "https://www.imdb.com/title/tt1135522/",
+      "primaryTitle": "Fist of the North Star: Legend of Raoh - Chapter of Fierce Fighting",
+      "originalTitle": "Shin ky\u00fbseishu densetsu Hokuto no Ken: Ra\u00f4 den - Gekit\u00f4 no sh\u00f4",
+      "type": "movie",
+      "description": "Earth was devastated by a terrible nuclear conflict that wiped out any sign of civilization. In this scenario, kenshiro and Raoul will face off.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMGNmNzk4YWEtZGZhOC00YTZiLThkMzktYjk1N2FhZjExNTU4XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMGNmNzk4YWEtZGZhOC00YTZiLThkMzktYjk1N2FhZjExNTU4XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMGNmNzk4YWEtZGZhOC00YTZiLThkMzktYjk1N2FhZjExNTU4XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMGNmNzk4YWEtZGZhOC00YTZiLThkMzktYjk1N2FhZjExNTU4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2007-04-28",
+      "startYear": 2007,
+      "endYear": null,
+      "runtimeMinutes": 85,
+      "genres": ["Action", "Animation"],
+      "interests": ["Anime", "Action", "Animation"],
+      "countriesOfOrigin": ["JP"],
+      "externalLinks": ["http://www.hokuto-no-ken.jp/"],
+      "spokenLanguages": ["ja"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0064579",
+          "name": "TMS Entertainment"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 7.1,
+      "numVotes": 574,
+      "metascore": null
+    },
+    {
+      "id": "tt8471380",
+      "url": "https://www.imdb.com/title/tt8471380/",
+      "primaryTitle": "Not Hero",
+      "originalTitle": "Not Hero",
+      "type": "movie",
+      "description": null,
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2018-05-08",
+      "startYear": 2018,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["CN"],
+      "externalLinks": null,
+      "spokenLanguages": ["Mandarin"],
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt10443318",
+      "url": "https://www.imdb.com/title/tt10443318/",
+      "primaryTitle": "Dragon Force: Rise of Ultraman",
+      "originalTitle": "Dragon Force: Rise of Ultraman",
+      "type": "movie",
+      "description": null,
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BZTMyZjc1ZTgtN2Y1ZS00NGQwLThkMjUtMTBiMGUwYmM2ZDU3XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZTMyZjc1ZTgtN2Y1ZS00NGQwLThkMjUtMTBiMGUwYmM2ZDU3XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZTMyZjc1ZTgtN2Y1ZS00NGQwLThkMjUtMTBiMGUwYmM2ZDU3XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZTMyZjc1ZTgtN2Y1ZS00NGQwLThkMjUtMTBiMGUwYmM2ZDU3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2019-01-18",
+      "startYear": 2019,
+      "endYear": null,
+      "runtimeMinutes": 98,
+      "genres": ["Action", "Adventure", "Animation"],
+      "interests": [
+        "Computer Animation",
+        "Action",
+        "Adventure",
+        "Animation",
+        "Family",
+        "Sci-Fi"
+      ],
+      "countriesOfOrigin": ["CN"],
+      "externalLinks": null,
+      "spokenLanguages": ["en", "zh"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0411741",
+          "name": "Blue Arc Studios"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 5755641,
+      "averageRating": 4.9,
+      "numVotes": 28,
+      "metascore": null
+    },
+    {
+      "id": "tt7374750",
+      "url": "https://www.imdb.com/title/tt7374750/",
+      "primaryTitle": "Bro Bots",
+      "originalTitle": "Bro Bots",
+      "type": "movie",
+      "description": "In the not-so-distant future, robots are everywhere. They talk like us. They walk like us. And they have really big personalities. Two British robots - Otis and Roberto - arrive in New York and join the NYPD.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMDlkYjhmNTQtM2QxMC00NmRhLWEzZTUtMTBiODZhYzhhZWZkXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMDlkYjhmNTQtM2QxMC00NmRhLWEzZTUtMTBiODZhYzhhZWZkXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMDlkYjhmNTQtM2QxMC00NmRhLWEzZTUtMTBiODZhYzhhZWZkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMDlkYjhmNTQtM2QxMC00NmRhLWEzZTUtMTBiODZhYzhhZWZkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": 2018,
+      "endYear": null,
+      "runtimeMinutes": 10,
+      "genres": ["Animation", "Comedy"],
+      "interests": ["Animation", "Comedy"],
+      "countriesOfOrigin": ["GB"],
+      "externalLinks": null,
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 7.9,
+      "numVotes": 19,
+      "metascore": null
+    },
+    {
+      "id": "tt12354886",
+      "url": "https://www.imdb.com/title/tt12354886/",
+      "primaryTitle": "Beauty Water",
+      "originalTitle": "Gigigoegoe seonghyeongsu",
+      "type": "movie",
+      "description": "Ye-ji comes across mysterious water that enables her to lose weight and reshape her appearance. She finds her life is more in danger the more she desires to be beautiful.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMTNiNDFmZTktYzkwZS00ZDBkLWFiNjktMjM0ZDdlYmYyZGQ3XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMTNiNDFmZTktYzkwZS00ZDBkLWFiNjktMjM0ZDdlYmYyZGQ3XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMTNiNDFmZTktYzkwZS00ZDBkLWFiNjktMjM0ZDdlYmYyZGQ3XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMTNiNDFmZTktYzkwZS00ZDBkLWFiNjktMjM0ZDdlYmYyZGQ3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2020-09-09",
+      "startYear": 2020,
+      "endYear": null,
+      "runtimeMinutes": 85,
+      "genres": ["Animation", "Drama", "Horror"],
+      "interests": [
+        "Body Horror",
+        "Computer Animation",
+        "Supernatural Horror",
+        "Animation",
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "countriesOfOrigin": ["KR"],
+      "externalLinks": ["https://seikeisui.jp/"],
+      "spokenLanguages": ["ko"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0158086",
+          "name": "Ningxia Film Group"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 1261400,
+      "averageRating": 6.1,
+      "numVotes": 1071,
+      "metascore": null
+    },
+    {
+      "id": "tt1857702",
+      "url": "https://www.imdb.com/title/tt1857702/",
+      "primaryTitle": "Fireman Sam: The Great Fire of Pontypandy",
+      "originalTitle": "Fireman Sam: The Great Fire of Pontypandy",
+      "type": "movie",
+      "description": "Fireman Sam receives a tempting offer from Chief Fire Officer Boyce and Pontypandy residents get ready to evacuate during a very fierce forest fire.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BZDhlOWJlYzMtMjk0YS00OGU1LTkzMjgtZjY0YjRkYzdmOTBmXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZDhlOWJlYzMtMjk0YS00OGU1LTkzMjgtZjY0YjRkYzdmOTBmXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZDhlOWJlYzMtMjk0YS00OGU1LTkzMjgtZjY0YjRkYzdmOTBmXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZDhlOWJlYzMtMjk0YS00OGU1LTkzMjgtZjY0YjRkYzdmOTBmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=b31RhZXyPyE",
+      "contentRating": "Not Rated",
+      "isAdult": false,
+      "releaseDate": "2015-01-08",
+      "startYear": 2009,
+      "endYear": null,
+      "runtimeMinutes": 60,
+      "genres": ["Action", "Adventure", "Animation"],
+      "interests": ["Action", "Adventure", "Animation", "Family"],
+      "countriesOfOrigin": ["GB"],
+      "externalLinks": null,
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0029268",
+          "name": "HIT Entertainment"
+        },
+        {
+          "id": "co0651222",
+          "name": "Xing Xing"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 5.4,
+      "numVotes": 195,
+      "metascore": null
+    },
+    {
+      "id": "tt15433832",
+      "url": "https://www.imdb.com/title/tt15433832/",
+      "primaryTitle": "A Frozen Christmas Dance: Thank You Santa",
+      "originalTitle": "A Frozen Christmas Dance: Thank You Santa",
+      "type": "movie",
+      "description": "It\u0027s Christmas and Sunnyville\u0027s little baby animals are in for the time of their life. Dance along as the party hops on, it\u0027s A Frozen Christmas Dance: Thank You Santa.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BNjVkM2NkMzgtM2E2Mi00ZjA4LWFmMmMtOWE3ODFiMGFjMjRlXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNjVkM2NkMzgtM2E2Mi00ZjA4LWFmMmMtOWE3ODFiMGFjMjRlXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNjVkM2NkMzgtM2E2Mi00ZjA4LWFmMmMtOWE3ODFiMGFjMjRlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNjVkM2NkMzgtM2E2Mi00ZjA4LWFmMmMtOWE3ODFiMGFjMjRlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2021-12-07",
+      "startYear": 2021,
+      "endYear": null,
+      "runtimeMinutes": 60,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": ["https://vimeo.com/582648135/abec1db82b"],
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt3129656",
+      "url": "https://www.imdb.com/title/tt3129656/",
+      "primaryTitle": "Bamse and the Thief City",
+      "originalTitle": "Bamse och tjuvstaden",
+      "type": "movie",
+      "description": "The world\u0027s strongest (and kindest) bear has to save his kidnapped grandmother when the town\u0027s former thieves band together to steal everything they can, led by the dastardly fox Reinard.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMTU0OTQ3MDAxOF5BMl5BanBnXkFtZTgwNDQzNTA3MDE@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMTU0OTQ3MDAxOF5BMl5BanBnXkFtZTgwNDQzNTA3MDE@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMTU0OTQ3MDAxOF5BMl5BanBnXkFtZTgwNDQzNTA3MDE@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMTU0OTQ3MDAxOF5BMl5BanBnXkFtZTgwNDQzNTA3MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=afo_N20zeUU",
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2015-12-25",
+      "startYear": 2014,
+      "endYear": null,
+      "runtimeMinutes": 66,
+      "genres": ["Adventure", "Animation", "Comedy"],
+      "interests": ["Adventure", "Animation", "Comedy", "Family", "Musical"],
+      "countriesOfOrigin": ["SE"],
+      "externalLinks": null,
+      "spokenLanguages": ["sv"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co1026402",
+          "name": "Tre V\u00e4nner Produktion"
+        },
+        {
+          "id": "co0623509",
+          "name": "Bamse F\u00f6rlaget AB"
+        },
+        {
+          "id": "co0137854",
+          "name": "Nordisk Film"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 4211368,
+      "averageRating": 6.1,
+      "numVotes": 830,
+      "metascore": null
+    },
+    {
+      "id": "tt36119983",
+      "url": "https://www.imdb.com/title/tt36119983/",
+      "primaryTitle": "Rally from Paris to the Pyramids",
+      "originalTitle": "Rally from Paris to the Pyramids",
+      "type": "movie",
+      "description": null,
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": null,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Animation"],
+      "interests": null,
+      "countriesOfOrigin": null,
+      "externalLinks": null,
+      "spokenLanguages": null,
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt3511974",
+      "url": "https://www.imdb.com/title/tt3511974/",
+      "primaryTitle": "Pretty Soldier Sailor Moon: The Movie",
+      "originalTitle": "Pretty Soldier Sailor Moon: The Movie",
+      "type": "movie",
+      "description": "When the forces of the Dark Kingdom threaten to destroy the peace, four guardian warriors will awaken.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BZDNlOWQ0MTYtMTkyNi00NGIzLWFkNTItMTM2ODNkNjI3MGRkXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZDNlOWQ0MTYtMTkyNi00NGIzLWFkNTItMTM2ODNkNjI3MGRkXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZDNlOWQ0MTYtMTkyNi00NGIzLWFkNTItMTM2ODNkNjI3MGRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZDNlOWQ0MTYtMTkyNi00NGIzLWFkNTItMTM2ODNkNjI3MGRkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2014-06-07",
+      "startYear": 2014,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Action", "Adventure", "Animation"],
+      "interests": [
+        "Superhero",
+        "Action",
+        "Adventure",
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": [
+        "http://www.facebook.com/SailorMoonMovie",
+        "http://www.sailormoonthemovie.com/"
+      ],
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co1022437",
+          "name": "Nurdystuff"
+        }
+      ],
+      "budget": 4100,
+      "grossWorldwide": null,
+      "averageRating": 6.3,
+      "numVotes": 64,
+      "metascore": null
+    },
+    {
+      "id": "tt0465502",
+      "url": "https://www.imdb.com/title/tt0465502/",
+      "primaryTitle": "Igor",
+      "originalTitle": "Igor",
+      "type": "movie",
+      "description": "Animated fable about a clich\u00e9 hunchbacked evil scientist\u0027s assistant who aspires to become a scientist himself, much to the displeasure of the rest of the evil science community.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BYzcwMjBjZDItMzgwMC00OTNlLTk5NzUtMzY5MzMwNWQ0NjQ4XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYzcwMjBjZDItMzgwMC00OTNlLTk5NzUtMzY5MzMwNWQ0NjQ4XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYzcwMjBjZDItMzgwMC00OTNlLTk5NzUtMzY5MzMwNWQ0NjQ4XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYzcwMjBjZDItMzgwMC00OTNlLTk5NzUtMzY5MzMwNWQ0NjQ4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=FfOjqkDIw0k",
+      "contentRating": "PG",
+      "isAdult": false,
+      "releaseDate": "2008-09-19",
+      "startYear": 2008,
+      "endYear": null,
+      "runtimeMinutes": 87,
+      "genres": ["Animation", "Comedy", "Family"],
+      "interests": [
+        "Computer Animation",
+        "Slapstick",
+        "Steampunk",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "countriesOfOrigin": ["FR", "US"],
+      "externalLinks": [
+        "http://www.tfmdistribution.com/igor/",
+        "http://www.igormovie.co.uk/"
+      ],
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0007143",
+          "name": "Metro-Goldwyn-Mayer (MGM)"
+        },
+        {
+          "id": "co0080906",
+          "name": "Exodus Film Group"
+        },
+        {
+          "id": "co0206182",
+          "name": "Exodus Productions"
+        }
+      ],
+      "budget": 25000000,
+      "grossWorldwide": 30893885,
+      "averageRating": 5.9,
+      "numVotes": 24842,
+      "metascore": 40
+    },
+    {
+      "id": "tt21417944",
+      "url": "https://www.imdb.com/title/tt21417944/",
+      "primaryTitle": "Andrew Orozco the Movie",
+      "originalTitle": "Andrew Orozco the Movie",
+      "type": "movie",
+      "description": null,
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BYmVhYTAyNDUtN2U1Yy00OGEwLWE5ZjAtOTYwNDJkMjA4NjY2XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYmVhYTAyNDUtN2U1Yy00OGEwLWE5ZjAtOTYwNDJkMjA4NjY2XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYmVhYTAyNDUtN2U1Yy00OGEwLWE5ZjAtOTYwNDJkMjA4NjY2XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYmVhYTAyNDUtN2U1Yy00OGEwLWE5ZjAtOTYwNDJkMjA4NjY2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": "PG",
+      "isAdult": false,
+      "releaseDate": "2018-01-19",
+      "startYear": 2018,
+      "endYear": null,
+      "runtimeMinutes": 52,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": null,
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0871314",
+          "name": "Andrew Orozco Productions"
+        },
+        {
+          "id": "co0871313",
+          "name": "JoJuan Animation Studios"
+        },
+        {
+          "id": "co0607727",
+          "name": "The JoJuan4444 Studios"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 4.4,
+      "numVotes": 19,
+      "metascore": null
+    },
+    {
+      "id": "tt0843358",
+      "url": "https://www.imdb.com/title/tt0843358/",
+      "primaryTitle": "My Dog Tulip",
+      "originalTitle": "My Dog Tulip",
+      "type": "movie",
+      "description": "The story of a man who rescues a German shepherd and how the two become fast friends.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BODM0MjMyMTUyOF5BMl5BanBnXkFtZTcwMjIwMTY3Mw@@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BODM0MjMyMTUyOF5BMl5BanBnXkFtZTcwMjIwMTY3Mw@@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BODM0MjMyMTUyOF5BMl5BanBnXkFtZTcwMjIwMTY3Mw@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BODM0MjMyMTUyOF5BMl5BanBnXkFtZTcwMjIwMTY3Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=nLqkJJEEGlU",
+      "contentRating": "Not Rated",
+      "isAdult": false,
+      "releaseDate": "2011-05-06",
+      "startYear": 2009,
+      "endYear": null,
+      "runtimeMinutes": 83,
+      "genres": ["Animation", "Drama"],
+      "interests": ["Animation", "Drama"],
+      "countriesOfOrigin": ["US", "GB"],
+      "externalLinks": ["http://www.tulipthedog.com/"],
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0038268",
+          "name": "Norman Twain Productions"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 246574,
+      "averageRating": 6.9,
+      "numVotes": 1809,
+      "metascore": 80
+    },
+    {
+      "id": "tt19883788",
+      "url": "https://www.imdb.com/title/tt19883788/",
+      "primaryTitle": "Kaptavita",
+      "originalTitle": "Kaptavita",
+      "type": "movie",
+      "description": "An orphan boy befriends a very special alien he shouldn\u0027t have met.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BNjRmNDg4NzAtYjVmYi00MThhLTg3ODEtZTQ0NzA2MzAyYzJhXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNjRmNDg4NzAtYjVmYi00MThhLTg3ODEtZTQ0NzA2MzAyYzJhXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNjRmNDg4NzAtYjVmYi00MThhLTg3ODEtZTQ0NzA2MzAyYzJhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNjRmNDg4NzAtYjVmYi00MThhLTg3ODEtZTQ0NzA2MzAyYzJhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2022-04-26",
+      "startYear": 2022,
+      "endYear": null,
+      "runtimeMinutes": 65,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["ES"],
+      "externalLinks": ["https://pliski.com/es/kaptavita/"],
+      "spokenLanguages": ["es"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0498614",
+          "name": "Pliski"
+        }
+      ],
+      "budget": 100,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt1133935",
+      "url": "https://www.imdb.com/title/tt1133935/",
+      "primaryTitle": "Detective Conan: Crossroad in the Ancient Capital",
+      "originalTitle": "Meitantei Konan Meiky\u00fb no Kurosur\u00f4do",
+      "type": "movie",
+      "description": "Five people get murdered by a sword and and also a important Buddha statue gets stolen, so Conan tries to find the murderer and the statue.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BY2M0Mzc2ZTctZGI2Mi00Zjk1LTg5MWItMGRmNWNjMDE0ZjdjXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BY2M0Mzc2ZTctZGI2Mi00Zjk1LTg5MWItMGRmNWNjMDE0ZjdjXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BY2M0Mzc2ZTctZGI2Mi00Zjk1LTg5MWItMGRmNWNjMDE0ZjdjXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BY2M0Mzc2ZTctZGI2Mi00Zjk1LTg5MWItMGRmNWNjMDE0ZjdjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2003-04-19",
+      "startYear": 2003,
+      "endYear": null,
+      "runtimeMinutes": 108,
+      "genres": ["Action", "Adventure", "Animation"],
+      "interests": [
+        "Anime",
+        "Action",
+        "Adventure",
+        "Animation",
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "countriesOfOrigin": ["JP"],
+      "externalLinks": null,
+      "spokenLanguages": ["ja"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0922312",
+          "name": "Meitantei Conan Production Committee"
+        },
+        {
+          "id": "co0003850",
+          "name": "Nippon Television Network (NTV)"
+        },
+        {
+          "id": "co0101105",
+          "name": "Shogakukan Production"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 24342320,
+      "averageRating": 7.1,
+      "numVotes": 2916,
+      "metascore": null
+    },
+    {
+      "id": "tt5080794",
+      "url": "https://www.imdb.com/title/tt5080794/",
+      "primaryTitle": "The Adventures of the Magic Globe or Witch\u0027s Tricks",
+      "originalTitle": "Priklyucheniya volshebnogo globusa, ili prodelki vedmy",
+      "type": "movie",
+      "description": "Animation film consists of four small stories. No Trouble, Boy from Naples, Cinderella and Hazelnut Twig.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BZThmNGZlZGMtMDEzNS00YTIzLTgxYzQtYTI0M2Q2ZjE2NDc4XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZThmNGZlZGMtMDEzNS00YTIzLTgxYzQtYTI0M2Q2ZjE2NDc4XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZThmNGZlZGMtMDEzNS00YTIzLTgxYzQtYTI0M2Q2ZjE2NDc4XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZThmNGZlZGMtMDEzNS00YTIzLTgxYzQtYTI0M2Q2ZjE2NDc4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "1991-01-01",
+      "startYear": 1991,
+      "endYear": null,
+      "runtimeMinutes": 65,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["Soviet Union"],
+      "externalLinks": null,
+      "spokenLanguages": ["ru"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0840099",
+          "name": "Soyuzmultfilm"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 6.9,
+      "numVotes": 38,
+      "metascore": null
+    },
+    {
+      "id": "tt30458623",
+      "url": "https://www.imdb.com/title/tt30458623/",
+      "primaryTitle": "Soreike! Anpanman: Soratobu ehon to garasu no kutsu",
+      "originalTitle": "Soreike! Anpanman: Soratobu ehon to garasu no kutsu",
+      "type": "movie",
+      "description": null,
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BNDIyZjBmMjEtNjVmNC00ZDcxLTg1MmQtY2I0NDJlMTc0OTBkXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNDIyZjBmMjEtNjVmNC00ZDcxLTg1MmQtY2I0NDJlMTc0OTBkXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNDIyZjBmMjEtNjVmNC00ZDcxLTg1MmQtY2I0NDJlMTc0OTBkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNDIyZjBmMjEtNjVmNC00ZDcxLTg1MmQtY2I0NDJlMTc0OTBkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "1996-07-13",
+      "startYear": 1996,
+      "endYear": null,
+      "runtimeMinutes": 60,
+      "genres": ["Animation", "Family"],
+      "interests": ["Anime", "Animation", "Family"],
+      "countriesOfOrigin": ["JP"],
+      "externalLinks": [
+        "https://www.tms-e.co.jp/alltitles/anpanman/060312.html"
+      ],
+      "spokenLanguages": ["ja"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0255338",
+          "name": "Froebel-kan"
+        },
+        {
+          "id": "co0204370",
+          "name": "Kyokuichi Tokyo Movie Shinsha"
+        },
+        {
+          "id": "co0947999",
+          "name": "Kyokuichi"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt32909350",
+      "url": "https://www.imdb.com/title/tt32909350/",
+      "primaryTitle": "The Legend of the Galactic Heroes: Die Neue These Collision 2",
+      "originalTitle": "The Legend of the Galactic Heroes: Die Neue These Collision 2",
+      "type": "movie",
+      "description": null,
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2022-04-01",
+      "startYear": 2022,
+      "endYear": null,
+      "runtimeMinutes": 100,
+      "genres": ["Animation", "Sci-Fi"],
+      "interests": [
+        "Adult Animation",
+        "Anime",
+        "Space Sci-Fi",
+        "Animation",
+        "Sci-Fi"
+      ],
+      "countriesOfOrigin": ["JP"],
+      "externalLinks": null,
+      "spokenLanguages": ["ja"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0002212",
+          "name": "Production I.G."
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt21834002",
+      "url": "https://www.imdb.com/title/tt21834002/",
+      "primaryTitle": "Five Penguins",
+      "originalTitle": "Five Penguins",
+      "type": "movie",
+      "description": null,
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2017-05-16",
+      "startYear": 2017,
+      "endYear": null,
+      "runtimeMinutes": 105,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["AU"],
+      "externalLinks": ["https://foxteethpress.com/fivepenguins"],
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt19725808",
+      "url": "https://www.imdb.com/title/tt19725808/",
+      "primaryTitle": "Mult v kino. Vypusk # 141: Ot multyashek stanet vsem tepley",
+      "originalTitle": "Mult v kino. Vypusk # 141: Ot multyashek stanet vsem tepley",
+      "type": "movie",
+      "description": "In the new episode of Mult v kino, the Be-be-bears spend a day without electricity, Katya and Ef are looking for animals with superpowers, Dan and Robert are lost in the forest, Leo and Tig are looking for Moonapples, and the Fantasy Patrol deals with the mischievous Cat.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BODgzZDQ4OGUtNGFhOC00N2RjLWFmODEtNTg4MjQxZDUxOGMxXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BODgzZDQ4OGUtNGFhOC00N2RjLWFmODEtNTg4MjQxZDUxOGMxXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BODgzZDQ4OGUtNGFhOC00N2RjLWFmODEtNTg4MjQxZDUxOGMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BODgzZDQ4OGUtNGFhOC00N2RjLWFmODEtNTg4MjQxZDUxOGMxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": "TV-Y",
+      "isAdult": false,
+      "releaseDate": "2022-04-23",
+      "startYear": 2022,
+      "endYear": null,
+      "runtimeMinutes": 47,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["RU"],
+      "externalLinks": null,
+      "spokenLanguages": ["ru"],
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt36483982",
+      "url": "https://www.imdb.com/title/tt36483982/",
+      "primaryTitle": "Malchik-delfin 2",
+      "originalTitle": "Malchik-delfin 2",
+      "type": "movie",
+      "description": "The heroic exploits of the dolphin boy have made him a legend among the marine inhabitants and inhabitants of the island, but despite his fame, he feels lonely, because everyone around him expects only new achievements from him, and he has almost no real friends. In addition, he still does not know the history of his origin, even his real name is a mystery to the boy. The sudden appearance of huge whales and vicious crabs in the sea strikes fear into the hearts of islanders and marine life. Fate throws a new challenge at the dolphin boy, but it also gives him hope.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BYmM5ZTk1MTItMzM5Yy00YzYxLWFhZmUtYjY5YmYwODI0MTdlXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYmM5ZTk1MTItMzM5Yy00YzYxLWFhZmUtYjY5YmYwODI0MTdlXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYmM5ZTk1MTItMzM5Yy00YzYxLWFhZmUtYjY5YmYwODI0MTdlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYmM5ZTk1MTItMzM5Yy00YzYxLWFhZmUtYjY5YmYwODI0MTdlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2025-05-08",
+      "startYear": 2025,
+      "endYear": null,
+      "runtimeMinutes": 91,
+      "genres": ["Adventure", "Animation", "Family"],
+      "interests": ["Adventure", "Animation", "Family"],
+      "countriesOfOrigin": ["TR", "IR", "RU"],
+      "externalLinks": null,
+      "spokenLanguages": ["ru"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co1094051",
+          "name": "Sky Frame Studios"
+        },
+        {
+          "id": "co0958809",
+          "name": "Vselennaya Kino"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 494640,
+      "averageRating": 5.5,
+      "numVotes": 25,
+      "metascore": null
+    },
+    {
+      "id": "tt3407024",
+      "url": "https://www.imdb.com/title/tt3407024/",
+      "primaryTitle": "Space Brothers",
+      "originalTitle": "Uchuu kyoudai #0",
+      "type": "movie",
+      "description": "A perfect prequel for the manga as well as the anime. A very detailed view of the characters and a perfectly fitted side story. If you are a fanatic of Nanba Mutta, you will love this one.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BZWMzNTRhNGYtNTRlYi00ZmUxLWEyNGItYzAyMjdmMWVhMGZmXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZWMzNTRhNGYtNTRlYi00ZmUxLWEyNGItYzAyMjdmMWVhMGZmXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZWMzNTRhNGYtNTRlYi00ZmUxLWEyNGItYzAyMjdmMWVhMGZmXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZWMzNTRhNGYtNTRlYi00ZmUxLWEyNGItYzAyMjdmMWVhMGZmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2014-06-01",
+      "startYear": 2014,
+      "endYear": null,
+      "runtimeMinutes": 90,
+      "genres": ["Animation", "Comedy", "Sci-Fi"],
+      "interests": ["Anime", "Animation", "Comedy", "Sci-Fi"],
+      "countriesOfOrigin": ["JP"],
+      "externalLinks": null,
+      "spokenLanguages": ["ja"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co1016510",
+          "name": "Uch\u00fb Ky\u00f4dai CES2014"
+        },
+        {
+          "id": "co0228570",
+          "name": "A-1 Pictures"
+        },
+        {
+          "id": "co0132285",
+          "name": "Aniplex"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 2714604,
+      "averageRating": 7.5,
+      "numVotes": 158,
+      "metascore": null
+    },
+    {
+      "id": "tt4806428",
+      "url": "https://www.imdb.com/title/tt4806428/",
+      "primaryTitle": "One Mile One Life",
+      "originalTitle": "One Mile One Life",
+      "type": "movie",
+      "description": null,
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BM2VhOGIxYjYtODRhMC00YTEwLWE1ZDItOWVkYmMyYjgxOWMzXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BM2VhOGIxYjYtODRhMC00YTEwLWE1ZDItOWVkYmMyYjgxOWMzXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BM2VhOGIxYjYtODRhMC00YTEwLWE1ZDItOWVkYmMyYjgxOWMzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BM2VhOGIxYjYtODRhMC00YTEwLWE1ZDItOWVkYmMyYjgxOWMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": null,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Action", "Adventure", "Animation"],
+      "interests": ["Action", "Adventure", "Animation", "History", "Western"],
+      "countriesOfOrigin": ["CA", "CN", "US"],
+      "externalLinks": null,
+      "spokenLanguages": ["en", "zh"],
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt0259285",
+      "url": "https://www.imdb.com/title/tt0259285/",
+      "primaryTitle": "Down to Earth Part IV: The Fourth Revolution",
+      "originalTitle": "Down to Earth Part IV: The Fourth Revolution",
+      "type": "movie",
+      "description": null,
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": 1974,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["IN"],
+      "externalLinks": null,
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt29482705",
+      "url": "https://www.imdb.com/title/tt29482705/",
+      "primaryTitle": "Lil Santa\u0027s Christmas Chronicles: Miss Santa Claus",
+      "originalTitle": "Lil Santa\u0027s Christmas Chronicles: Miss Santa Claus",
+      "type": "movie",
+      "description": "Join Santa and the Fairytale Fun Force as they gather around the fire to tell bedtime stories. This time, the magical friends read classic fairytales. It\u0027s time for Lil Santa\u0027s Christmas Chronicles: Miss Santa Claus.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BYTFlOWUwZGEtMDBmYi00MzdmLTlkMmQtM2NiYmZkYTM5ZTI3XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYTFlOWUwZGEtMDBmYi00MzdmLTlkMmQtM2NiYmZkYTM5ZTI3XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYTFlOWUwZGEtMDBmYi00MzdmLTlkMmQtM2NiYmZkYTM5ZTI3XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYTFlOWUwZGEtMDBmYi00MzdmLTlkMmQtM2NiYmZkYTM5ZTI3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2023-12-05",
+      "startYear": 2023,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": null,
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0619948",
+          "name": "WOWNow Entertainment"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 2.8,
+      "numVotes": 6,
+      "metascore": null
+    },
+    {
+      "id": "tt0220053",
+      "url": "https://www.imdb.com/title/tt0220053/",
+      "primaryTitle": "Socialisation of a Bull",
+      "originalTitle": "Socializacija bika?",
+      "type": "movie",
+      "description": "A bald-headed professor Rozina, with the help of his brother and female assistant, for many years tests all possible chemical compounds and solutions that could accelerate the growth of hair cells. Meanwhile, in the far galactic kingdom, at the edge of the Andromeda nebulae, King Alfred caught his son smoking cigarettes. A single poof of that substance can be fatal, since gasified tobacco causes anti-evolution process in the population of this kingdom. Fortunately, the inhaled dose was so small that the prince devolves only to the level of a bull. As a punishment, father King sends him to Earth, which is famous for the worst grass in the galaxy, so he could socialize well and come to his senses. Grizel supposed to seven long years, to come to his senses and to socialize better. Coincidentally or not, the prince-bull finds himself in the laboratory of professor Rozina, where he becomes the subject of professor\u0027s research. And here the story of evolution and anti-evolution interweave.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BNDhmMWIwZWQtZDcxYy00OGY0LTljYjQtYWNmZjYyNDVkMmQ5XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNDhmMWIwZWQtZDcxYy00OGY0LTljYjQtYWNmZjYyNDVkMmQ5XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNDhmMWIwZWQtZDcxYy00OGY0LTljYjQtYWNmZjYyNDVkMmQ5XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNDhmMWIwZWQtZDcxYy00OGY0LTljYjQtYWNmZjYyNDVkMmQ5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": 1998,
+      "endYear": null,
+      "runtimeMinutes": 78,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["SI"],
+      "externalLinks": null,
+      "spokenLanguages": ["sl"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0047945",
+          "name": "E-motion Film"
+        },
+        {
+          "id": "co0077188",
+          "name": "RTV Slovenija"
+        },
+        {
+          "id": "co0237701",
+          "name": "SKUC"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 6.7,
+      "numVotes": 73,
+      "metascore": null
+    },
+    {
+      "id": "tt1620449",
+      "url": "https://www.imdb.com/title/tt1620449/",
+      "primaryTitle": "Animals United",
+      "originalTitle": "Konferenz der Tiere",
+      "type": "movie",
+      "description": "A group of animals waiting for the annual flood they rely on for food and water discover that the humans, who have been destroying their habitats have built a dam for a leisure resort.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMjAwNjE2Njc1MF5BMl5BanBnXkFtZTcwNDQ2NTk3Nw@@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjAwNjE2Njc1MF5BMl5BanBnXkFtZTcwNDQ2NTk3Nw@@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjAwNjE2Njc1MF5BMl5BanBnXkFtZTcwNDQ2NTk3Nw@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMjAwNjE2Njc1MF5BMl5BanBnXkFtZTcwNDQ2NTk3Nw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=M-Do5xwAG70",
+      "contentRating": "PG",
+      "isAdult": false,
+      "releaseDate": "2010-10-07",
+      "startYear": 2010,
+      "endYear": null,
+      "runtimeMinutes": 93,
+      "genres": ["Adventure", "Animation", "Comedy"],
+      "interests": [
+        "Computer Animation",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "countriesOfOrigin": ["GB", "DE", "US"],
+      "externalLinks": ["http://www.kdt.film.de/"],
+      "spokenLanguages": ["en", "de"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0002257",
+          "name": "Constantin Film"
+        },
+        {
+          "id": "co0118168",
+          "name": "Ambient Entertainment GmbH"
+        },
+        {
+          "id": "co0234654",
+          "name": "White Horse Pictures"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 51883642,
+      "averageRating": 4.9,
+      "numVotes": 7206,
+      "metascore": null
+    },
+    {
+      "id": "tt6634932",
+      "url": "https://www.imdb.com/title/tt6634932/",
+      "primaryTitle": "Gekijouban Puripara: M\u00eenna de kagayake! Kirarin sut\u00e2 raibu!",
+      "originalTitle": "Gekijouban Puripara: M\u00eenna de kagayake! Kirarin sut\u00e2 raibu!",
+      "type": "movie",
+      "description": null,
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BZTU5ZjRlMjUtYTRlMy00Y2YxLWIwM2EtOTQ2MTNjNDAxZGQ1XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZTU5ZjRlMjUtYTRlMy00Y2YxLWIwM2EtOTQ2MTNjNDAxZGQ1XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZTU5ZjRlMjUtYTRlMy00Y2YxLWIwM2EtOTQ2MTNjNDAxZGQ1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZTU5ZjRlMjUtYTRlMy00Y2YxLWIwM2EtOTQ2MTNjNDAxZGQ1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": "TV-Y",
+      "isAdult": false,
+      "releaseDate": "2017-03-04",
+      "startYear": 2017,
+      "endYear": null,
+      "runtimeMinutes": 57,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["JP"],
+      "externalLinks": ["http://pp-movie.com/"],
+      "spokenLanguages": ["ja"],
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 5,
+      "numVotes": 5,
+      "metascore": null
+    },
+    {
+      "id": "tt6518076",
+      "url": "https://www.imdb.com/title/tt6518076/",
+      "primaryTitle": "Untitled Lani Pixels Project",
+      "originalTitle": "Untitled Lani Pixels Project",
+      "type": "movie",
+      "description": "Evil forces have invaded an isolated island and have targeted Patrick and Susan\u0027s grandfather, Mr. Campbell. Guided by Jack, a charming Irish rogue, the siblings end up on a dangerous journey filled with magic and mystery.",
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2025-03-27",
+      "startYear": 2025,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Adventure", "Animation", "Comedy"],
+      "interests": ["Adventure", "Animation", "Comedy", "Family"],
+      "countriesOfOrigin": ["DK", "AE", "US", "VA"],
+      "externalLinks": null,
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0393856",
+          "name": "Lani Pixels"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt6539574",
+      "url": "https://www.imdb.com/title/tt6539574/",
+      "primaryTitle": "Learn/Teach Days of the Week Song, Alphabets, Colors, Numbers Nursery Rhymes for Kids",
+      "originalTitle": "Learn/Teach Days of the Week Song, Alphabets, Colors, Numbers Nursery Rhymes for Kids",
+      "type": "movie",
+      "description": null,
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": 2016,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["IN"],
+      "externalLinks": null,
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0628963",
+          "name": "ChuChu TV Studios"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt23053766",
+      "url": "https://www.imdb.com/title/tt23053766/",
+      "primaryTitle": "Atlas: The Animated Movie",
+      "originalTitle": "Atlas: The Animated Movie",
+      "type": "movie",
+      "description": "Based on the abandoned Golden Age superhero comic, Atlas: Man of Might (1964).",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BN2IyYzkyNWUtYTE2Yy00YTQzLTg5NTgtNWViYWYwZWI2MTZjXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BN2IyYzkyNWUtYTE2Yy00YTQzLTg5NTgtNWViYWYwZWI2MTZjXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BN2IyYzkyNWUtYTE2Yy00YTQzLTg5NTgtNWViYWYwZWI2MTZjXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BN2IyYzkyNWUtYTE2Yy00YTQzLTg5NTgtNWViYWYwZWI2MTZjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": null,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Action", "Adventure", "Animation"],
+      "interests": ["Action", "Adventure", "Animation"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": [
+        "https://austinmcconnell.com/atlas",
+        "https://www.kickstarter.com/projects/austinmcconnellyt/atlas-the-animated-movie-by-austin-mcconnell"
+      ],
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt0974662",
+      "url": "https://www.imdb.com/title/tt0974662/",
+      "primaryTitle": "The Velveteen Rabbit",
+      "originalTitle": "The Velveteen Rabbit",
+      "type": "movie",
+      "description": "A lonely boy wins over his distant father and strict grandmother with help from a brave velveteen rabbit whose one wish is to become a real rabbit someday.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BZmJkNTk2NTctMjE4ZS00MmZlLTk3NGYtN2Q3MWY5MjBlMGQ5XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZmJkNTk2NTctMjE4ZS00MmZlLTk3NGYtN2Q3MWY5MjBlMGQ5XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZmJkNTk2NTctMjE4ZS00MmZlLTk3NGYtN2Q3MWY5MjBlMGQ5XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZmJkNTk2NTctMjE4ZS00MmZlLTk3NGYtN2Q3MWY5MjBlMGQ5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=rHY_OCiLX9s",
+      "contentRating": "G",
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": 2009,
+      "endYear": null,
+      "runtimeMinutes": 97,
+      "genres": ["Animation", "Drama", "Family"],
+      "interests": ["Animation", "Drama", "Family", "Fantasy"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": ["http://velveteenrabbitmovie.com/"],
+      "spokenLanguages": ["en"],
+      "filmingLocations": ["Montr\u00e9al, Qu\u00e9bec, Canada"],
+      "productionCompanies": [
+        {
+          "id": "co0181501",
+          "name": "Believe Pictures"
+        },
+        {
+          "id": "co0000740",
+          "name": "CINAR"
+        },
+        {
+          "id": "co0254535",
+          "name": "Family1 Films"
+        }
+      ],
+      "budget": 5500000,
+      "grossWorldwide": null,
+      "averageRating": 6.3,
+      "numVotes": 892,
+      "metascore": null
+    },
+    {
+      "id": "tt12411810",
+      "url": "https://www.imdb.com/title/tt12411810/",
+      "primaryTitle": "Gadget Heads: Famous Inventors",
+      "originalTitle": "Gadget Heads: Famous Inventors",
+      "type": "movie",
+      "description": "Jon mega smart space cadets Scarp and Hub for a journey of learning and discovery like never before. This time around the duo embarks on a mighty adventure to meet and learn about the greatest inventors that ever lived in this neuron-blasting new documentary that will power your brain to higher knowledge.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BYWIwOTY0NDQtNDQ5NC00MWU1LWIyNDUtMjViNTk5ZDYyZTQ0XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYWIwOTY0NDQtNDQ5NC00MWU1LWIyNDUtMjViNTk5ZDYyZTQ0XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYWIwOTY0NDQtNDQ5NC00MWU1LWIyNDUtMjViNTk5ZDYyZTQ0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BYWIwOTY0NDQtNDQ5NC00MWU1LWIyNDUtMjViNTk5ZDYyZTQ0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2020-04-07",
+      "startYear": 2020,
+      "endYear": null,
+      "runtimeMinutes": 60,
+      "genres": ["Animation", "Family"],
+      "interests": ["Animation", "Family"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": ["https://vimeo.com/411654834/ff379b20f2"],
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt0796232",
+      "url": "https://www.imdb.com/title/tt0796232/",
+      "primaryTitle": "Quest for a Heart",
+      "originalTitle": "R\u00f6llin syd\u00e4n",
+      "type": "movie",
+      "description": "When the most mischievous resident of Rolli Village befriends a beautiful elf girl, the hopelessly mismatched pair embarks on a magical adventure to save the Forest of Elves by traveling to the Land of Winter and recovering the mythical magical heart in this animated tale of wonder for the entire family.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BNmVmOTMxYWItM2JiMC00NjhmLTlkZGEtYjFkZjk3M2Y5YTcyXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNmVmOTMxYWItM2JiMC00NjhmLTlkZGEtYjFkZjk3M2Y5YTcyXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNmVmOTMxYWItM2JiMC00NjhmLTlkZGEtYjFkZjk3M2Y5YTcyXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNmVmOTMxYWItM2JiMC00NjhmLTlkZGEtYjFkZjk3M2Y5YTcyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=-zb4e2BZxf8",
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2021-12-13",
+      "startYear": 2007,
+      "endYear": null,
+      "runtimeMinutes": 78,
+      "genres": ["Adventure", "Animation", "Family"],
+      "interests": [
+        "Hand-Drawn Animation",
+        "Adventure",
+        "Animation",
+        "Family",
+        "Fantasy",
+        "Musical"
+      ],
+      "countriesOfOrigin": ["FI", "DE", "GB", "RU"],
+      "externalLinks": [
+        "http://www.rollinsydan.com/",
+        "http://www.questforaheart.com/"
+      ],
+      "spokenLanguages": ["fi"],
+      "filmingLocations": ["Helsinki, Finland"],
+      "productionCompanies": [
+        {
+          "id": "co0085788",
+          "name": "Matila R\u00f6hr Productions (MRP)"
+        },
+        {
+          "id": "co0011770",
+          "name": "Greenlight Media AG"
+        },
+        {
+          "id": "co0024285",
+          "name": "Film and Music Entertainment (F\u0026ME)"
+        }
+      ],
+      "budget": 5200000,
+      "grossWorldwide": 3133499,
+      "averageRating": 5.6,
+      "numVotes": 424,
+      "metascore": null
+    },
+    {
+      "id": "tt32439489",
+      "url": "https://www.imdb.com/title/tt32439489/",
+      "primaryTitle": "Dikkie Dik en de Verdwenen Knuffel",
+      "originalTitle": "Dikkie Dik en de Verdwenen Knuffel",
+      "type": "movie",
+      "description": "In \u0027Tummy Tom and the Lost Teddy Bear\u0027 Tummy Tom discovers something shocking: Bear, his favorite cuddle toy, is missing and nowhere to be found. Luckily, his friend Cat Mouse is there to help, because Tummy Tom can\u0027t sleep without Bear. Many paws make light work, so they set off to find him and they have many exciting adventures on the way. An ordinary bed becomes a real trampoline, and outside you can walk along the washing line like a proper acrobat. Together they discover new places, like the meadow and the beach, and they come across other animals they have never met before. After a day full of fun and adventures, everything turns out alright in the end. They have not just found Bear, but they have also found lots of new friends along the way.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BY2ViODA5ZjMtY2EyMS00NTU4LWE0ODItYmMxODk3YTc3MDAxXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BY2ViODA5ZjMtY2EyMS00NTU4LWE0ODItYmMxODk3YTc3MDAxXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BY2ViODA5ZjMtY2EyMS00NTU4LWE0ODItYmMxODk3YTc3MDAxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BY2ViODA5ZjMtY2EyMS00NTU4LWE0ODItYmMxODk3YTc3MDAxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=31nyhPZAU-8",
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2024-06-19",
+      "startYear": 2024,
+      "endYear": null,
+      "runtimeMinutes": 62,
+      "genres": ["Adventure", "Animation", "Family"],
+      "interests": ["Adventure", "Animation", "Family"],
+      "countriesOfOrigin": ["NL", "BE"],
+      "externalLinks": ["https://www.dikkiedikdefilm.nl/"],
+      "spokenLanguages": ["nl"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co1069896",
+          "name": "Phanta Animation"
+        },
+        {
+          "id": "co0488839",
+          "name": "BosBros"
+        },
+        {
+          "id": "co0307092",
+          "name": "Eyeworks"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 1156289,
+      "averageRating": 7.2,
+      "numVotes": 136,
+      "metascore": null
+    },
+    {
+      "id": "tt0368305",
+      "url": "https://www.imdb.com/title/tt0368305/",
+      "primaryTitle": "Subdivision, Colorado",
+      "originalTitle": "Subdivision, Colorado",
+      "type": "movie",
+      "description": "Genesee is tired of spending everyday fishing in her neighborhood with her three best friends--Patton, Chris, and Stock Exchange. She wants an adventure! Her wish is granted when the crew stumbles upon an Indian arrowhead that magically levitates, pointing to an unseen target. The gang decides to follow the mysterious \u0027compass,\u0027 unaware that it carries an ancient curse that could spell their doom. As this brave caravan traverses the Rocky Mountains, they must contend with dangerous terrain, face villainous foes and learn to work together as a team if they hope to discover the arrowhead\u0027s mysterious origins and purpose. As the secret is revealed, Genesee and her friends realize that the fate of the neighborhood is in their hands.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMTY0MDgxMzA0OF5BMl5BanBnXkFtZTcwODUyMzYyMQ@@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMTY0MDgxMzA0OF5BMl5BanBnXkFtZTcwODUyMzYyMQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMTY0MDgxMzA0OF5BMl5BanBnXkFtZTcwODUyMzYyMQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMTY0MDgxMzA0OF5BMl5BanBnXkFtZTcwODUyMzYyMQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": 2004,
+      "endYear": null,
+      "runtimeMinutes": 70,
+      "genres": ["Action", "Adventure", "Animation"],
+      "interests": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Mystery"
+      ],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": ["http://www.SubdivisionColorado.com/"],
+      "spokenLanguages": ["en"],
+      "filmingLocations": ["Golden, Colorado, USA"],
+      "productionCompanies": [
+        {
+          "id": "co0099823",
+          "name": "Square State Films"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 6.5,
+      "numVotes": 30,
+      "metascore": null
+    },
+    {
+      "id": "tt29594383",
+      "url": "https://www.imdb.com/title/tt29594383/",
+      "primaryTitle": "Roblox Titanic: Reimagined",
+      "originalTitle": "Roblox Titanic: Reimagined",
+      "type": "movie",
+      "description": "The \u0022unsinkable ship\u0022, titanic, was known as being the ship of dreams until one night it struck and iceberg and started going down. Fast.",
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": "13+",
+      "isAdult": false,
+      "releaseDate": "2023-05-06",
+      "startYear": 2023,
+      "endYear": null,
+      "runtimeMinutes": 142,
+      "genres": ["Action", "Animation", "Drama"],
+      "interests": ["Action", "Animation", "Drama", "History"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": [
+        "https://titanic.fandom.com/wiki/Roblox_Titanic:_Reimagined_(2023_film)"
+      ],
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co1026105",
+          "name": "Nethinge Pictures"
+        }
+      ],
+      "budget": 20,
+      "grossWorldwide": null,
+      "averageRating": 6.4,
+      "numVotes": 8,
+      "metascore": null
+    },
+    {
+      "id": "tt1512689",
+      "url": "https://www.imdb.com/title/tt1512689/",
+      "primaryTitle": "15Malaysia",
+      "originalTitle": "15Malaysia",
+      "type": "movie",
+      "description": "Fifteen short films with socio-economic subject matter by 15 directors of Malaysia\u0027s \u0022New Wave\u0022 and \u0022No Wave.\u0022",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BOGZhMWI2NjUtYmY2Ni00MjJiLWJjYTktMmRhYTMyMzA1YWY4XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BOGZhMWI2NjUtYmY2Ni00MjJiLWJjYTktMmRhYTMyMzA1YWY4XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BOGZhMWI2NjUtYmY2Ni00MjJiLWJjYTktMmRhYTMyMzA1YWY4XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BOGZhMWI2NjUtYmY2Ni00MjJiLWJjYTktMmRhYTMyMzA1YWY4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=nKcHEJJ9Uy0",
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2009-10-09",
+      "startYear": 2009,
+      "endYear": null,
+      "runtimeMinutes": 80,
+      "genres": ["Animation", "Comedy", "Drama"],
+      "interests": ["Animation", "Comedy", "Drama"],
+      "countriesOfOrigin": ["MY"],
+      "externalLinks": ["http://15malaysia.com/"],
+      "spokenLanguages": ["ms", "ta", "en"],
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 6.9,
+      "numVotes": 38,
+      "metascore": null
+    },
+    {
+      "id": "tt15073144",
+      "url": "https://www.imdb.com/title/tt15073144/",
+      "primaryTitle": "Dark Ditties from Down Under",
+      "originalTitle": "Dark Ditties from Down Under",
+      "type": "movie",
+      "description": "\u0022Dark Ditties From Down Under\u0022 is a hosted anthology of the strange short films of David Black and Gerardo Chierchia.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BNTk5ZGU4MTgtODIwMi00OTI5LTkyYmMtY2NhMjk0MWNkYjdlXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNTk5ZGU4MTgtODIwMi00OTI5LTkyYmMtY2NhMjk0MWNkYjdlXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNTk5ZGU4MTgtODIwMi00OTI5LTkyYmMtY2NhMjk0MWNkYjdlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNTk5ZGU4MTgtODIwMi00OTI5LTkyYmMtY2NhMjk0MWNkYjdlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2021-07-24",
+      "startYear": 2021,
+      "endYear": null,
+      "runtimeMinutes": 102,
+      "genres": ["Action", "Adventure", "Animation"],
+      "interests": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "countriesOfOrigin": ["AU"],
+      "externalLinks": [
+        "https://www.facebook.com/profile.php?id=100015440045427",
+        "https://www.youtube.com/c/DarvisBlack/about"
+      ],
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0710721",
+          "name": "David Black Productions"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 2.2,
+      "numVotes": 7,
+      "metascore": null
+    },
+    {
+      "id": "tt1303748",
+      "url": "https://www.imdb.com/title/tt1303748/",
+      "primaryTitle": "Juviez: Boyz Vs. Girlz",
+      "originalTitle": "Juviez: Boyz Vs. Girlz",
+      "type": "movie",
+      "description": null,
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMzg0ZWI5MjQtZGVlYi00YzIzLThmNWEtNDZlODllN2FlYzA0XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMzg0ZWI5MjQtZGVlYi00YzIzLThmNWEtNDZlODllN2FlYzA0XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMzg0ZWI5MjQtZGVlYi00YzIzLThmNWEtNDZlODllN2FlYzA0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMzg0ZWI5MjQtZGVlYi00YzIzLThmNWEtNDZlODllN2FlYzA0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2009-03-10",
+      "startYear": 2009,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": null,
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0249355",
+          "name": "Conkidz Entertainment"
+        }
+      ],
+      "budget": 450000,
+      "grossWorldwide": null,
+      "averageRating": 6,
+      "numVotes": 9,
+      "metascore": null
+    },
+    {
+      "id": "tt6867880",
+      "url": "https://www.imdb.com/title/tt6867880/",
+      "primaryTitle": "Touch 3: After You Passed By",
+      "originalTitle": "Tatchi 3: Kimi ga t\u00f4risugita ato ni",
+      "type": "movie",
+      "description": null,
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BNDkzMzYxNTEtMzYyOS00YTNmLWFlMDItNDAyMmQ1N2ZhMmM5XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNDkzMzYxNTEtMzYyOS00YTNmLWFlMDItNDAyMmQ1N2ZhMmM5XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNDkzMzYxNTEtMzYyOS00YTNmLWFlMDItNDAyMmQ1N2ZhMmM5XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNDkzMzYxNTEtMzYyOS00YTNmLWFlMDItNDAyMmQ1N2ZhMmM5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "1987-04-11",
+      "startYear": 1987,
+      "endYear": null,
+      "runtimeMinutes": 83,
+      "genres": ["Animation", "Drama", "Sport"],
+      "interests": ["Anime", "Animation", "Drama", "Sport"],
+      "countriesOfOrigin": ["JP"],
+      "externalLinks": null,
+      "spokenLanguages": ["ja"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0823437",
+          "name": "Asashi Tsuhonsha"
+        },
+        {
+          "id": "co0189654",
+          "name": "Asatsu-DK"
+        },
+        {
+          "id": "co0055529",
+          "name": "Fuji Television Network (Fuji TV)"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 5.8,
+      "numVotes": 25,
+      "metascore": null
+    },
+    {
+      "id": "tt35683064",
+      "url": "https://www.imdb.com/title/tt35683064/",
+      "primaryTitle": "The Death of Film",
+      "originalTitle": "The Death of Film",
+      "type": "movie",
+      "description": "The Death of Film, spanning 856 hours, explores the eventual demise of cinema. Producers Samuel Felinton, Damien Dennis, and tasked AI with generating a film based on its interpretation of nature while intentionally approaching, but not surpassing, the 857-hour run time of Logistics (2012), the longest film on record. All funds from this project will be donated to the Animation Guild to support human animators and preserve their craft.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BZTNiNWVlZjgtNmQ0YS00YzJhLThlMjctMTM2MTZhOTFjN2NkXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZTNiNWVlZjgtNmQ0YS00YzJhLThlMjctMTM2MTZhOTFjN2NkXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZTNiNWVlZjgtNmQ0YS00YzJhLThlMjctMTM2MTZhOTFjN2NkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZTNiNWVlZjgtNmQ0YS00YzJhLThlMjctMTM2MTZhOTFjN2NkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2025-02-11",
+      "startYear": 2025,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": [
+        "https://www.felintoninc.org/film",
+        "https://www.felintoninc.org/the-death-of-film"
+      ],
+      "spokenLanguages": null,
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co1005267",
+          "name": "Felinton"
+        }
+      ],
+      "budget": 20,
+      "grossWorldwide": null,
+      "averageRating": 8,
+      "numVotes": 13,
+      "metascore": null
+    },
+    {
+      "id": "tt32897873",
+      "url": "https://www.imdb.com/title/tt32897873/",
+      "primaryTitle": "Pole Princess!!",
+      "originalTitle": "Pole Princess!!",
+      "type": "movie",
+      "description": "The story centers on the \u0022Pole Dance Japan Cup\u0022 competition, where protagonist Hinano Hoshikita and her friends will compete as the Galaxy Princesses. They will compete with the competition\u0027s four-time champion team, Aile d\u0027Ange.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BNDRhZTE4YmUtMWVlZi00YmY4LWIxMTQtNmM4N2UzMWNjYTkwXkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNDRhZTE4YmUtMWVlZi00YmY4LWIxMTQtNmM4N2UzMWNjYTkwXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNDRhZTE4YmUtMWVlZi00YmY4LWIxMTQtNmM4N2UzMWNjYTkwXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNDRhZTE4YmUtMWVlZi00YmY4LWIxMTQtNmM4N2UzMWNjYTkwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": "2023-11-23",
+      "startYear": 2023,
+      "endYear": null,
+      "runtimeMinutes": 60,
+      "genres": ["Animation", "Drama", "Music"],
+      "interests": null,
+      "countriesOfOrigin": null,
+      "externalLinks": null,
+      "spokenLanguages": null,
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": 4282,
+      "averageRating": 6.9,
+      "numVotes": 14,
+      "metascore": null
+    },
+    {
+      "id": "tt13414858",
+      "url": "https://www.imdb.com/title/tt13414858/",
+      "primaryTitle": "Deadpool Movie in Lego",
+      "originalTitle": "Deadpool Movie in Lego",
+      "type": "movie",
+      "description": "A shot-for-shot remake of the 2016 movie, Deadpool, created entirely out of Lego.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BZjNjNDFlYzgtODJiZi00MDEzLThhY2UtMmMwY2NhYTNlN2U2XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZjNjNDFlYzgtODJiZi00MDEzLThhY2UtMmMwY2NhYTNlN2U2XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZjNjNDFlYzgtODJiZi00MDEzLThhY2UtMmMwY2NhYTNlN2U2XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BZjNjNDFlYzgtODJiZi00MDEzLThhY2UtMmMwY2NhYTNlN2U2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": "Not Rated",
+      "isAdult": false,
+      "releaseDate": "2021-04-07",
+      "startYear": 2021,
+      "endYear": null,
+      "runtimeMinutes": 108,
+      "genres": ["Action", "Adventure", "Animation"],
+      "interests": [
+        "Adult Animation",
+        "Superhero",
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "countriesOfOrigin": ["US"],
+      "externalLinks": null,
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0829112",
+          "name": "Huxley Berg Studios"
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": 8,
+      "numVotes": 144,
+      "metascore": null
+    },
+    {
+      "id": "tt36669755",
+      "url": "https://www.imdb.com/title/tt36669755/",
+      "primaryTitle": "Dragon Heart-Adventures Beyond This World",
+      "originalTitle": "Dragon Heart-Adventures Beyond This World",
+      "type": "movie",
+      "description": "Two teens drown in a river, get rescued by a dragon, and learn they\u0027re dead. An old man offers to revive them if they explore the spirit world to find their purpose, leading them through hellish realms.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BNzZmMDU0Y2UtNjJmYi00ZmM3LThiM2YtNTVjNjllYWU1ZjE2XkEyXkFqcGc@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNzZmMDU0Y2UtNjJmYi00ZmM3LThiM2YtNTVjNjllYWU1ZjE2XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNzZmMDU0Y2UtNjJmYi00ZmM3LThiM2YtNTVjNjllYWU1ZjE2XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BNzZmMDU0Y2UtNjJmYi00ZmM3LThiM2YtNTVjNjllYWU1ZjE2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": null,
+      "contentRating": "PG-13",
+      "isAdult": false,
+      "releaseDate": "2025-05-23",
+      "startYear": 2025,
+      "endYear": null,
+      "runtimeMinutes": 119,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": null,
+      "externalLinks": [
+        "https://dragonheart-movie.com/",
+        "https://dragonheart-movie.com/"
+      ],
+      "spokenLanguages": ["ja"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0556008",
+          "name": "HS Pictures Studio"
+        },
+        {
+          "id": "co0206599",
+          "name": "IRH Press Co."
+        }
+      ],
+      "budget": null,
+      "grossWorldwide": 1736270,
+      "averageRating": 6,
+      "numVotes": 10,
+      "metascore": null
+    },
+    {
+      "id": "tt23847214",
+      "url": "https://www.imdb.com/title/tt23847214/",
+      "primaryTitle": "Untitled animated Matt Cooke and Vince Lund movie",
+      "originalTitle": "Untitled animated Matt Cooke and Vince Lund movie",
+      "type": "movie",
+      "description": null,
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": null,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": null,
+      "externalLinks": null,
+      "spokenLanguages": null,
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    },
+    {
+      "id": "tt0407121",
+      "url": "https://www.imdb.com/title/tt0407121/",
+      "primaryTitle": "Pooh\u0027s Heffalump Movie",
+      "originalTitle": "Pooh\u0027s Heffalump Movie",
+      "type": "movie",
+      "description": "When Roo sets off on his own into the Hundred Acre Wood, he discovers a friendly and playful Heffalump named Lumpy.",
+      "primaryImage": "https://m.media-amazon.com/images/M/MV5BMTUyOTk5MDM4N15BMl5BanBnXkFtZTcwMTM0NDcyMQ@@.jpg",
+      "thumbnails": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTk5MDM4N15BMl5BanBnXkFtZTcwMTM0NDcyMQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg",
+          "width": 100,
+          "height": 148
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTk5MDM4N15BMl5BanBnXkFtZTcwMTM0NDcyMQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "width": 280,
+          "height": 414
+        },
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTk5MDM4N15BMl5BanBnXkFtZTcwMTM0NDcyMQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "width": 380,
+          "height": 562
+        }
+      ],
+      "trailer": "https://www.youtube.com/watch?v=eLW2vzKfhMc",
+      "contentRating": "G",
+      "isAdult": false,
+      "releaseDate": "2005-02-11",
+      "startYear": 2005,
+      "endYear": null,
+      "runtimeMinutes": 68,
+      "genres": ["Adventure", "Animation", "Comedy"],
+      "interests": [
+        "Hand-Drawn Animation",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Musical",
+        "Mystery"
+      ],
+      "countriesOfOrigin": ["US", "JP", "DE", "CA", "FR"],
+      "externalLinks": [
+        "http://winniethepooh.disney.com/pooh-s-heffalump-movie"
+      ],
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [
+        {
+          "id": "co0008970",
+          "name": "Walt Disney Pictures"
+        },
+        {
+          "id": "co0092035",
+          "name": "Disneytoon Studios"
+        }
+      ],
+      "budget": 20000000,
+      "grossWorldwide": 52858433,
+      "averageRating": 6.4,
+      "numVotes": 9050,
+      "metascore": 64
+    },
+    {
+      "id": "tt29550438",
+      "url": "https://www.imdb.com/title/tt29550438/",
+      "primaryTitle": "The White Tower",
+      "originalTitle": "The White Tower",
+      "type": "movie",
+      "description": null,
+      "primaryImage": null,
+      "thumbnails": [],
+      "trailer": null,
+      "contentRating": null,
+      "isAdult": false,
+      "releaseDate": null,
+      "startYear": null,
+      "endYear": null,
+      "runtimeMinutes": null,
+      "genres": ["Animation"],
+      "interests": ["Animation"],
+      "countriesOfOrigin": ["CA"],
+      "externalLinks": null,
+      "spokenLanguages": ["en"],
+      "filmingLocations": null,
+      "productionCompanies": [],
+      "budget": null,
+      "grossWorldwide": null,
+      "averageRating": null,
+      "numVotes": null,
+      "metascore": null
+    }
+  ],
+  "nextCursorMark": "AoE/AWZkYjA4ZDUyOThjNzI2OWI4MjkzMWMyZGYyMDM0OTM3"
+}

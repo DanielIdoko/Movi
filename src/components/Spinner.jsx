@@ -2,8 +2,8 @@ import React from 'react'
 
 const Spinner = () => {
   return (
-    <div>
-      <span class="loader"></span>
+    <div className="w-full h-screen flex items-center justify-center">
+      <span className="loader"></span>
     </div>
   )
 }

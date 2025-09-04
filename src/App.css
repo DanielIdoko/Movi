@@ -1,74 +1,47 @@
 @import "tailwindcss";
 
-html{
-    height: 100rem;
+body {
+  transition: all 350ms ease;
+  background-color: var(--color-dark);
+  font-family: "Open sans", sans-serif;
 }
 
-body{
-    transition: all 350ms ease;
+img {
+  transition: all 350ms ease-in;
 }
-
-:root{
-    --base-color: #f1f1f1;
-    --primary-color: #0a13c0;
-    --secondary-color: #ad00ef;
-    --active-button-state: var(--primary-color);
-    --hover-btn-state: #0611db;
-    --focus-btn-state: var(var(--base-color));
+img:hover {
+  transform: scale(1.1);
 }
-
 
 @theme {
-    --default-font-size: 15px;
-    --default-shadow-box: 0px 0px 20px rgba(0,0,0,.3);
-    --base-color: #f1f1f1;
-    --color-dark: #001;
-    --primary-color: #5451f7;
-    --secondary-color: #ad00ef;
-    --active-button-state: var(--primary-color);
-    --hover-btn-state: #0611db;
-    --focus-btn-state: var(var(--base-color));
+  /* Text sizes themes */
+  --text-x-small: 11px;
+  --text-small: 14px;
+  --text-medium: 16px;
+  --text-x-medium: 22px;
+  --text-large: 45px;
+  --text-x-large: 55px;
+  /* Font family themes */
+  --font-family-1: "Open sans", sans-serif;
+  /* Color themes */
+  --color-base-color: #f9f8ff;
+  --color-dark: #001;
+  --color-primary-color: #4750ff;
+  --color-secondary-color: #1b0424;
 }
- 
 
 /* Spinner styling here */
 .loader {
-  width: 48px;
-  height: 48px;
+  width: 30px;
+  height: 30px;
+  border: 5px solid #fff;
+  border-bottom-color: transparent;
   border-radius: 50%;
   display: inline-block;
-  position: relative;
-  border: 3px solid;
-  border-color: #FFF #FFF transparent transparent;
   box-sizing: border-box;
   animation: rotation 1s linear infinite;
 }
-.loader::after,
-.loader::before {
-  content: '';  
-  box-sizing: border-box;
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  margin: auto;
-  border: 3px solid;
-  border-color: transparent transparent #FF3D00 #FF3D00;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  box-sizing: border-box;
-  animation: rotationBack 0.5s linear infinite;
-  transform-origin: center center;
-}
-.loader::before {
-  width: 32px;
-  height: 32px;
-  border-color: #FFF #FFF transparent transparent;
-  animation: rotation 1.5s linear infinite;
-}
-    
+
 @keyframes rotation {
   0% {
     transform: rotate(0deg);
@@ -76,7 +49,16 @@ body{
   100% {
     transform: rotate(360deg);
   }
-} 
+}
+
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
 @keyframes rotationBack {
   0% {
     transform: rotate(0deg);
@@ -85,45 +67,70 @@ body{
     transform: rotate(-360deg);
   }
 }
-    
-
 
 /* Stying for navlink */
-.nav-link{
-    /* padding: 9px 30px; */
-    height: 44px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    border-radius: 30px;
-    cursor: pointer;
-    color: var(--base-color);
-    transition: all 1s ease;
+.nav-link {
+  padding: 6px 15px;
+  height: 44px;
+  display: flex;
+  font-size: var(--text-small);
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 30px;
+  cursor: pointer;
+  color: #555;
+  transition: all 1s ease;
+}
+/* .nav-link-search-btn {
+  @apply text-xl text-[rgb(85,85,85)] flex justify-center items-center transition duration-100 ease-in cursor-pointer
+} */
+
+.search-input{
+  transition: all 350ms ease-in;
 }
 
-.active-link{
-    height: 44px;
-    padding: 9px 30px;
-    color: #f1f1f1;
-    background-color: var(--primary-color);
-    border-radius: 30px;
-    border: 1px solid var(--primary-color);
-    font-size: 15px;
-    cursor: pointer;
-    transition: all 1s ease;
+.active-link {
+  height: 44px;
+  padding: 9px 30px;
+  color: #f1f1f1;
+  background-color: var(--primary-color);
+  border-radius: 30px;
+  border: 1px solid var(--primary-color);
+  font-size: 15px;
+  cursor: pointer;
+  transition: all 1s ease;
 }
 
-.nav-link:hover{
+/* .nav-link:hover{
     color: var(--primary-color);
+} */
+
+.category-button {
+  padding: 5px 10px;
+  font-size: 14px;
+  border: 1.5px solid #848383b9;
+  color: #d3d3d3;
+  border-radius: 60px;
+  transition: all 350ms ease;
+  cursor: pointer;
 }
 
-.category-button{
-    padding: 5px 10px;
-    font-size: 14px;
-    border: 1.5px solid #848383b9;
-    color: #d3d3d3;
-    border-radius: 60px;
-    transition: all 350ms ease;
-    cursor: pointer;
+/* Hero section */
+.hero-section {
+  @apply w-full h-screen p-0 bg-[url(./assets/heroimage.png)] bg-center bg-cover bg-no-repeat flex items-center justify-center;
+}
+
+.hero-section .hero-main-container {
+    @apply w-[330px] md:w-[600px] h-[250px] md:h-[350px] p-3 bg-white/10 backdrop-blur-xl rounded-2xl flex flex-col items-center justify-center;
+}
+.hero-section .hero-main-container h1 {
+  @apply text-3xl pb-2 md:text-large text-white;
+}
+.hero-main-container p {
+  @apply text-small md:text-medium text-white pt-4;
+}
+/* Category section */
+.movies-categories {
+  @apply w-full bg-dark h-full pl-5 p-3 md:p-6;
 }

@@ -1,106 +1,158 @@
 import React, { lazy, Suspense, useEffect, useState } from 'react'
-import axios from 'axios';
-import MovieCard from '../components/MovieCard'
 import Spinner from '../components/Spinner'
+import Footer from '../components/Footer'
 import MovieCardHook from '../hooks/MovieCardHook'
+import useFetchMovies from '../store/useFetchMovies';
+import { API_URL, API_URL2 } from '../utils/api'
+import { Link } from 'react-router-dom';
+// import Swiper core and required modules
+import { Navigation, A11y } from 'swiper/modules';
 
-const categories = ['Action', 'Drama', 'Comedy', 'Tv Shows', 'Animation']
+import { Swiper, SwiperSlide } from 'swiper/react';
+
+// Import Swiper styles
+import 'swiper/css';
+import 'swiper/css/navigation';
+import 'swiper/css/pagination';
+import 'swiper/css/scrollbar';
+import SearchInput from '../components/SearchInput';
+import Main from '../store/main';
+
+
+const MovieCard = lazy(() => import("../components/MovieCard"));
+const categories = ['Action', 'Drama', 'Comedy', 'Animation']
 
 export default function Home() {
-  const [movies, setMovies] = useState([])
-  const [selectedCategory, setSelectedCategory] = useState('Animation')
-  const [isLoading, setIsLoading] = useState(true)
-  const [errorMessage, setErrormessage] = useState('')
+  const [selectedCategory, setSelectedCategory] = useState('Action')
+  const { fetchMovies, filterMovies, movies, filteredMovies, isLoading, error: errorMessage } = useFetchMovies();
 
-
-
-const BASE_URL = 'https://imdb236.p.rapidapi.com/api/imdb/search'
-
-const fetchData = async () => {
- const options = {
-  method: 'GET',
-  url: BASE_URL,
-  params: {
-    type: 'movie',
-    genre: selectedCategory ? selectedCategory : "Animation",
-    rows: '100',
-    sortOrder: 'ASC',
-    sortField: 'id'
-  },
-  headers: {
-    'x-rapidapi-key': import.meta.env.VITE_RAPID_API_KEY,
-    'x-rapidapi-host': 'imdb236.p.rapidapi.com'
+  const options = {
+    method: 'GET',
+    url: API_URL2,
+    headers: {
+      'x-rapidapi-key': "e6536b1868msh2bd1fd467cdaa8cp1c8e0djsn2b984e3000ef",
+      'x-rapidapi-host': 'imdb236.p.rapidapi.com'
+    }
   }
-}
-    try {
-        setErrormessage('')
-        setIsLoading(false)
-        const response = await axios.request(options);
-        setMovies(response.data.results)
-
-        if(!response.data){
-          throw new Error("An error occured, please try again")
-        }
-    } catch (error) {
-        setErrormessage(error)
-        setIsLoading(false)
-    } finally{
-      setIsLoading(false)
-      setErrormessage('')
+  // Filter options
+  const filterMovieOptions = {
+    method: 'GET',
+    url: API_URL,
+    params: {
+      type: 'movie',
+      genre: selectedCategory,
+      rows: '100',
+      sortOrder: 'ASC',
+      sortField: 'id'
+    },
+    headers: {
+      'x-rapidapi-key': "e6536b1868msh2bd1fd467cdaa8cp1c8e0djsn2b984e3000ef",
+      'x-rapidapi-host': 'imdb236.p.rapidapi.com'
     }
   }
 
-  // code for bringing in the MovieCardHook for use
-  const [ containerRef, isVisible ] = MovieCardHook({})
 
-  useEffect(() =>{
-    fetchData() 
+  // code for bringing in the MovieCardHook for use
+  const [containerRef, isVisible] = MovieCardHook({})
+
+  useEffect(() => {
+    filterMovies(filterMovieOptions);
+  }, [selectedCategory])
+
+  useEffect(() => {
+    fetchMovies(options);
   }, [])
 
-  const LazyCard = lazy(import('../components/MovieCard'))
+  // Search bar code
+  const { searchBarVisible } = Main();
 
   return (
     <div
-     className='w-full h-full bg-dark text-white'>
-      <a href="" className='md:hidden hidden p-4.5 text-xl font-bold text-white'>Movi</a>
-      <header className="w-full bg-dark md:bg-transparent p-2 h-20 fixed top-0 md:top-26 z-100">
-        <a href="" className='flex md:hidden p-4.5 text-xl font-bold text-white'>Movi</a>
-        <div className="w-full md:w-4xl m-auto h-auto bg-dark rounded-0 md:rounded-4xl p-2 flex items-center overflow-auto z-0">
-        <nav className='w-auto h-auto flex items-center justify-center-safe gap-1 md:gap-20'>
+      className='w-full h-full bg-dark text-white'>
+      <a href="" className='md:hidden hidden p-4.5 text-xl  text-white'>Movi</a>
+      {/* This code below will show the search bar for the mobile view only if out searchBarvisible state is true */}
+      {searchBarVisible && <div className='w-full h-fit fixed top-0 left-0 md:hidden p-2 flex items-center justify-center z-20'>
+        <SearchInput /></div>}
+
+      {/* Hero section Starts */}
+      <section className="hero-section">
+
+        <div className="hero-main-container">
+          <h1>Unlimited Movies, TV</h1>
+          <span className='text-3xl md:text-large text-white'>Shows and more.</span>
+          <p>Browse your favourite movies seamlessly.</p>
+        </div>
+      </section>
+      {/* Hero section Ends */}
+      {/* Popular movies section */}
+      <section
+        className='w-full h-auto p-3 bg-transparent md:mt-26'>
+        <h2 className='text-small md:text-medium p-2 md:p-3 md:pl-13 mt-10 text-white '>Most Popular Movies For You</h2>
+        <div className='w-full h-full flex-items-center justify-start p-3 md:p-10'>
+          <Suspense fallback={<Spinner />}>
+            {errorMessage ? (<p className='text-center text-md text-base-color'>An Error occured, please try again</p>)
+              : isLoading ? (<Spinner />) :
+                (
+                  <Swiper
+                    modules={[Navigation, A11y]}
+                    spaceBetween={15}
+                    slidesPerView={2}
+                    navigation
+                    breakpoints={{
+                      768: {
+                        slidesPerView: 3
+                      },
+                      1024: {
+                        slidesPerView: 5
+                      }
+                    }}
+                  >
+                    {movies.slice(0, 20).map((movie) => (
+                      <>
+                        <SwiperSlide key={Math.random()}>
+                          <MovieCard movieData={movie} loading={"lazy"} />
+                        </SwiperSlide>
+                      </>
+                    ))}
+                  </Swiper>
+                )}
+          </Suspense>
+        </div>
+      </section >
+      {/* Popular movies ection ends here */}
+      {/* Categories section */}
+      < section className="movies-categories" >
+        <h2 className='text-small md:text-medium text-base-color  pb-6 md:pl-10'>Filter by Category</h2>
+        <nav className='w-full h-auto flex items-center justify-start gap-1 md:gap-6 md:pl-10'>
           {
             categories.map(category => (
-              <button 
-              className='list-none category-button'
-              key={crypto.randomUUID()}
-              onClick={() => {
-                setSelectedCategory(category)
-                fetchData()
-              }}
-              style={{
-                backgroundColor: category == selectedCategory ? "#696868b9" : ''
-              }}>{category}</button>
+              <button
+                className='list-none category-button'
+                key={crypto.randomUUID()}
+                onClick={() => setSelectedCategory(category)}
+                style={{
+                  backgroundColor: category == selectedCategory ? "rgba(255,255,255,.08)" : ''
+                }}>{category}</button>
             ))
           }
         </nav>
-      </div>
-      </header>
-      <section 
-        className='w-full h-full md:p-10 p-1 bg-transparent relative top-25 md:top-26'>
-          <h1 className='text-xl p-3 mt-10 md:mt-16 text-white font-bold'>Popular Movies</h1>
-          <div
-           className='w-full p-2 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 overflow-hidden md:gap-5 lg:gap-17 gap-4'>
-              <Suspense fallback={<Spinner />}>
-                {errorMessage ? (<p className='text-center text-md text-white'>An Error occured, please try again</p>) 
-                : isLoading ? (<Spinner />) :
-                (
-                  movies.map(movie => (
-                    <MovieCard ref={containerRef} key={Math.random()} movieData={movie}/>
-                  ))
-                )
-                }      
-              </Suspense>
-          </div>
-      </section>
-    </div>
+        {errorMessage ? (<p className='text-center text-md text-white'>An Error occured, please try again</p>)
+          : isLoading ? (<Spinner />) :
+            (
+              <div className="w-full h-auto mt-6 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 items-center justify-items-center">
+                {
+                  filteredMovies.map(movie => (
+                    <Suspense fallback={<Spinner />} key={Math.random()}>
+                      <MovieCard ref={containerRef}  movieData={movie} />
+                    </Suspense>
+                  ))}
+              </div>
+            )
+        }
+      </section >
+
+      {/* Footer section */}
+      < Footer />
+    </div >
   )
 }
