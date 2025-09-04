@@ -1,10 +1,13 @@
 import React from 'react'
-export default function MovieCard({ movieData }) {
+import { Link } from 'react-router-dom'
+
+export default function MovieCard({ movieData, state }) {
   // const { originalTitle, primaryImage, description, productionCompany,  genres, averageRating, releaseDate} = movieData
   return (
-    <div
-      ref={ref}
-      className='w-44 md:w-48 h-60 bg-dark relative p-1 rounded-2xl cursor-pointer overflow-hidden'>
+    <Link
+      to={`/movie/${movieData.id}`}
+      className='w-44 md:w-48 h-60 bg-dark relative p-1 rounded-2xl cursor-pointer overflow-hidden'
+      state={state}>
       <div className="w-full h-auto overflow-hidden rounded-xl">
         <img
           src={decodeURIComponent(movieData.primaryImage).length > 10 ? movieData.primaryImage : "../assets/PosterImage.png"} alt={movieData.originalTitle}
@@ -27,6 +30,6 @@ export default function MovieCard({ movieData }) {
       <span className='text-sm pt-2 pb-1 text-gray-600 font-bold '>
         {movieData.averageRating}⭐
       </span>
-    </div>
+    </Link>
   )
 }

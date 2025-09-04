@@ -1,10 +1,8 @@
 import React, { lazy, Suspense, useEffect, useState } from 'react'
 import Spinner from '../components/Spinner'
 import Footer from '../components/Footer'
-import MovieCardHook from '../hooks/MovieCardHook'
 import useFetchMovies from '../store/useFetchMovies';
 import { API_URL, API_URL2 } from '../utils/api'
-import { Link } from 'react-router-dom';
 // import Swiper core and required modules
 import { Navigation, A11y } from 'swiper/modules';
 
@@ -51,17 +49,14 @@ export default function Home() {
     }
   }
 
+  // Call filterMovies(depends on a selscted category) and fetchMovies(Runs on every load of the app) function
+    // useEffect(() => {
+    //   filterMovies(filterMovieOptions);
+    // }, [selectedCategory])
 
-  // code for bringing in the MovieCardHook for use
-  const [containerRef, isVisible] = MovieCardHook({})
-
-  useEffect(() => {
-    filterMovies(filterMovieOptions);
-  }, [selectedCategory])
-
-  useEffect(() => {
-    fetchMovies(options);
-  }, [])
+    // useEffect(() => {
+    //   fetchMovies(options);
+    // }, [])
 
   // Search bar code
   const { searchBarVisible } = Main();
@@ -110,7 +105,7 @@ export default function Home() {
                     {movies.slice(0, 20).map((movie) => (
                       <>
                         <SwiperSlide key={Math.random()}>
-                          <MovieCard movieData={movie} loading={"lazy"} />
+                          <MovieCard movieData={movie} loading={"lazy"} state={{movie}}/>
                         </SwiperSlide>
                       </>
                     ))}
@@ -143,7 +138,7 @@ export default function Home() {
                 {
                   filteredMovies.map(movie => (
                     <Suspense fallback={<Spinner />} key={Math.random()}>
-                      <MovieCard ref={containerRef}  movieData={movie} />
+                      <MovieCard movieData={movie} state={{movie}}/>
                     </Suspense>
                   ))}
               </div>
