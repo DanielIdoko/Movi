@@ -7,58 +7,44 @@ const useFetchMovies = create((set) => ({
     error: null,
     isLoading: true,
     movies: [],
-    searchMoviesResult: [],
+    allMovies: [],
     filteredMovies: [],
-    fetchMovies: async (options) => {
+    fetchMovies: async () => {
         try {
             set({ error: null, isLoading: false })
-            const response = await axios.request(options);
-
-            if (!response.ok) {
-                set({ error: "An unexpected error occured. Try Reloading the page or see if your internet is connected." })
-            }
-
-            set({ movies: response.data })
-
+            fetch('/data/mostPopular.json')
+                .then((res) => res.json())
+                .then((data) => set({ movies: data }))
+                .catch((err) => set({ error: err, isLoading: false }))
         } catch (error) {
             set({ error: error, isLoading: false })
         } finally {
             set({ error: null, isLoading: false })
         }
     },
-    searchMovies: async (options) => {
+    fetchAllMovies: async () => {
         try {
             set({ error: null, isLoading: false })
-            const response = await axios.request(options);
-
-            if (!response.ok) {
-                set({ error: "An unexpected error occured. Try Reloading the page or see if your internet is connected." })
-            }
-
-            set({ searchMoviesResult: response.data })
-
+            fetch('/data/movies.json')
+                .then((res) => res.json())
+                .then((data) => set({ allMovies: data }))
+                .catch((err) => set({ error: err, isLoading: false }))
         } catch (error) {
             set({ error: error, isLoading: false })
         } finally {
             set({ error: null, isLoading: false })
         }
     },
-    filterMovies: async (options) => {
-        try {
-            set({ error: null, isLoading: true })
-            const response = await axios.request(options);
 
-            if (!response.ok) {
-                set({ error: "An unexpected error occured. Try Reloading the page or see if your internet is connected." })
-            }
-
-            set({ filteredMovies: response.data.results.slice(0, 20) })
-
-        } catch (error) {
-            set({ error: error, isLoading: false })
-        } finally {
-            set({ error: null, isLoading: false })
-        }
+    filterMovies: async (category) => {
+        set({ error: null, isLoading: false })
+        fetch('/data/movies.json')
+            .then((res) => res.json())
+            .then((data) => {
+                const filteredData = data.filter(Data => Data.genres.includes(category))
+                set({ filteredMovies: filteredData })
+            })
+            .catch((err) => set({ error: err, isLoading: false }))
     },
 }))
 
