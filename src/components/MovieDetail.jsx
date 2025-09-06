@@ -31,7 +31,7 @@ const MovieDetail = ({ movieData }) => {
              {movieData.isAdult && <p className='p-1 w-fit h-fit mt-1 rounded-sm bg-gray-800 text-x-small text-red-400'>+18</p>}
             <p className='p-1 w-fit h-fit mt-1 rounded-sm bg-gray-800 text-x-small text-gray-500'>{movieData.contentRating || "R"}</p>
           </span>
-          <p className='text-gray-500 text-small pt-3'>{movieData.description}</p>
+          <p className='text-gray-500 text-small pt-3'>{movieData.description ? movieData.description : "No description for this movie"}</p>
 
           <p className='text-gray-300 pt-15 text-small'>Production Companies</p>
           <Swiper

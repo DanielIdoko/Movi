@@ -33,7 +33,7 @@ function Navbar() {
   return (
     <header
       className='md:w-full hidden md:flex md:items-center md:fixed md:z-50 md:bg-dark xl:p-1 md:h-20 md:top-0 md:rounded-none'>
-      <a href="" className='hidden md:flex p-4.5 md:pl-14 text-xl text-white'>Movi</a>
+      <Link to="/" className='hidden md:flex p-4.5 md:pl-14 text-xl text-white'>Movi</Link>
 
       <nav
         className='w-fit rounded-4xl p-3 md:p-3 xl:p-3.5 flex flex-1 justify-around md:justify-start md:gap-15 md:ml-20 lg:ml-70'>

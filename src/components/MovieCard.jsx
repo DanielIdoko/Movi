@@ -1,10 +1,18 @@
-import React from 'react'
+import React, { useCallback } from 'react'
 import { Link } from 'react-router-dom'
 import { PosterImage } from '../assets'
 import { FiHeart } from 'react-icons/fi'
+import Main from '../store/main'
 
 export default function MovieCard({ movieData, movieState }) {
-  // const { originalTitle, primaryImage, description, productionCompany,  genres, averageRating, releaseDate} = movieData
+  //Saved movie/is movie saved dtate gotten from our Main store
+  const { handleSaveMovie, handleToggleModal, modalShown } = Main();
+
+  const handleSave = useCallback(() =>{
+    handleSaveMovie(movieData);
+    handleToggleModal();
+  },[modalShown])
+
   return (
     <Link
       to={`/movie/${movieData.id}`}
@@ -17,15 +25,16 @@ export default function MovieCard({ movieData, movieState }) {
           40 object-cover'
         />
       </div>
-      <p className='text-small text-gray-200 pt-2'>{movieData.originalTitle}</p>
-      {/* Rating */}
-      <span className='text-sm pt-2 pb-1 text-gray-600 font-bold '>
-        {movieData.averageRating}⭐
-      </span>
-      {/* Wishlist button */}
-      <button className='text-gray-500'>
-        <FiHeart />
-      </button>
+      <div className='w-full h-fit relative'>
+        <p className='text-small text-gray-200 pt-2'>{movieData.originalTitle}</p>
+        <button className='saved-btn' onClick={() => handleSave()}>
+          <FiHeart />
+        </button>
+        {/* Rating */}
+        <span className='text-sm pt-2 pb-1 text-gray-600 font-bold '>
+          {movieData.averageRating ? movieData.averageRating : 3}⭐
+        </span>
+      </div>
     </Link>
   )
 }

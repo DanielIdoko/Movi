@@ -103,9 +103,6 @@ span{
   @apply text-xl text-[rgb(85,85,85)] flex justify-center items-center transition duration-100 ease-in cursor-pointer
 } */
 
-.search-input{
-  transition: all 350ms ease-in;
-}
 
 .active-link {
   height: 44px;
@@ -140,4 +137,9 @@ span{
 /* Category section */
 .movies-categories {
   @apply w-full bg-dark h-full pl-5 p-3 md:p-10;
+}
+
+
+.saved-btn{
+  @apply text-gray-500 p-1 text-medium flex items-center justify-center absolute right-1 top-2 transition duration-500 ease-in rounded-full cursor-pointer hover:bg-blue-900 hover:text-white
 }
