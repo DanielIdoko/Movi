@@ -3,7 +3,6 @@ import useFetchMovies from '../../store/useFetchMovies';
 import Spinner from '../Spinner';
 import MovieCard from '../MovieCard';
 import { API_URL } from '../../utils/api';
-import { generateRandIndex } from '../../utils/functions';
 
 
 const SimilarMovies = ({ movie }) => {
@@ -16,13 +15,15 @@ const SimilarMovies = ({ movie }) => {
     }
 
     // Define the options inside a useEffect to prevent recreating the object on every render.
-    useEffect(() => {
-        const movie_index = generateRandIndex(movie.genres);
-        filterMovies(movie.genres[movie_index]);
-    }, [movie]); // Re-run the fetch when the movie prop changes
-
+    // useEffect(() => {
+    //     const movie_index = generateRandIndex(movie.genres);
+    //     filterMovies(movie.genres[movie_index]);
+    // }, [movie]); // Re-run the fetch when the movie prop changes
+    
     // Using a separate useEffect to handle the state update when filteredMovies changes
     useEffect(() => {
+        filterMovies(movie.genres[1] || moveEmitHelpers.genres[0]);
+        
         if (filteredMovies.length > 0) {
             setSimilarMovies(filteredMovies);
         }
