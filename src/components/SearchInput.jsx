@@ -20,7 +20,7 @@ const SearchInput = () => {
             <input
                 type="search"
                 value={searchTerm}
-                className='w-[78%] h-full rounded-md bg-white/10 text-gray-300 p-3 focus:outline-0 search-input'
+                className='w-[78%] h-full rounded-md text-gray-300 p-3 focus:outline-0 bg-dark/10 backdrop-blur-md search-input'
                 onChange={(e) => handleChange(e.target.value)}
                 placeholder='Search Movies' />
             <button className='bg-primary-color text-white rounded-md p-1 pl-3 pr-3 ml-2 md:ml-0 cursor-pointer' onClick={() => handleSearch(navigate)}>Search</button>

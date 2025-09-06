@@ -6,6 +6,9 @@ import { API_URL, API_URL2 } from '../utils/api'
 // import Swiper core and required modules
 import { Navigation, Autoplay } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
+// Help Generate random id's for movies to prevent colliding id's  
+import { v4 as uuid4 } from 'uuid';
+
 
 // Import Swiper styles
 import 'swiper/css';
@@ -60,7 +63,7 @@ export default function Home() {
               }}
             >
               {movies.slice(0, 10).map(movie => (
-                <SwiperSlide key={movie.id}>
+                <SwiperSlide key={uuid4()}>
                   <Link
                     to={`/movie/${movie.id}`}
                     className='w-full h-full relative overflow-hidden bg-amber-50'
@@ -105,7 +108,7 @@ export default function Home() {
                   >
                     {movies.slice(0, 20).map((movie) => (
                       <>
-                        <SwiperSlide key={Math.random()}>
+                        <SwiperSlide key={uuid4()}>
                           <MovieCard movieData={movie} loading={"lazy"} movieState={movie} />
                         </SwiperSlide>
                       </>
@@ -124,7 +127,7 @@ export default function Home() {
             categories.map(category => (
               <button
                 className='category-button'
-                key={crypto.randomUUID()}
+                key={uuid4()}
                 onClick={() => setSelectedCategory(category)}
                 style={{
                   backgroundColor: category == selectedCategory ? "rgba(255,255,255,.08)" : ''
@@ -137,7 +140,7 @@ export default function Home() {
             (
               <div className="w-full h-auto mt-6 grid grid-cols-2 md:grid-cols-3 gap-5 lg:grid-cols-6 items-center justify-items-center">
                 {filteredMovies.slice(0, 20).map((movie) => (
-                  <Suspense fallback={<Spinner />} key={Math.random()}>
+                  <Suspense fallback={<Spinner />} key={uuid4()}>
                     <MovieCard movieData={movie} movieState={movie} />
                   </Suspense>
                 ))}

@@ -8,6 +8,8 @@ import { lazy } from 'react';
 import { Suspense } from 'react';
 import useFetchMovies from '../../store/useFetchMovies';
 
+// Help Generate random id's for movies to prevent colliding id's  
+import { v4 as uuid4 } from 'uuid';
 
 const SimilarMovies = lazy(() => import('../../components/SimilarMovies/SimilarMovies'));
 
@@ -37,7 +39,7 @@ const MovieDescription = () => {
         <p className='text-red-600 text-small md:text-medium'>{errorMessage}</p>
       ) : movie ? (
         <>
-          <MovieDetail movieData={movie} key={movie.id} />
+          <MovieDetail movieData={movie} key={uuid4()} />
 
           {/* Similar movies section */}
           <h3 className='p-3 text-white md:text-medium mt-3'>Similar Movies</h3>

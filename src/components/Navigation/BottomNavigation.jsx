@@ -25,7 +25,7 @@ const BottomNavigation = () => {
     const { handleToggleSearchBar, searchTerm } = Main();
 
     return (
-        <div className='w-full h-14 p-1 fixed bottom-0 bg-gray-900 left-0 md:hidden z-60'>
+        <div className='w-full h-14 p-1 fixed bottom-0 bg-dark left-0 md:hidden z-60'>
             <nav
                 className='w-full h-full flex items-center justify-center gap-20'>
                 {
