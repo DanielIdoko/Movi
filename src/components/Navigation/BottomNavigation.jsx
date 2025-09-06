@@ -37,7 +37,6 @@ const BottomNavigation = () => {
                             className='nav-link'
                             style={({ isActive }) => ({
                                 color: isActive ? "#f9f8ff" : "#555",
-                                backgroundColor: isActive ? "rgba(255,255,255,.1)" : ""
                             })}
                         >
                             <span className='text-xl md:text-md md:hidden block'>

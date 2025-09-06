@@ -30,11 +30,7 @@ const SearchPage = () => {
       // Clear results if the search term is empty or no movies are loaded
       setSearchResults([]);
     }
-  }, []);
-
-  useEffect(() => {
-    console.log("Hello");
-  }, [])
+  }, [term]);
 
   return (
     <div className='w-full p-3 h-dvh overflow-auto bg-dark'>

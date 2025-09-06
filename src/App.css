@@ -134,7 +134,7 @@ span{
 }
 
 .hero-section{
-  @apply w-full h-full p-3
+  @apply w-full h-full p-3 md:p-10  overflow-hidden
 }
 
 /* Category section */

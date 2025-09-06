@@ -4,17 +4,17 @@ import Footer from '../components/Footer'
 import useFetchMovies from '../store/useFetchMovies';
 import { API_URL, API_URL2 } from '../utils/api'
 // import Swiper core and required modules
-import { Navigation, A11y } from 'swiper/modules';
+import { Navigation, Autoplay } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 // Import Swiper styles
 import 'swiper/css';
 import 'swiper/css/navigation';
-import 'swiper/css/pagination';
-import 'swiper/css/scrollbar';
+import 'swiper/css/autoplay';
 import SearchInput from '../components/SearchInput';
 import Main from '../store/main';
 import { Link } from 'react-router-dom';
+import { FiArrowRight } from 'react-icons/fi';
 
 
 const MovieCard = lazy(() => import("../components/MovieCard"));
@@ -51,21 +51,27 @@ export default function Home() {
         {errorMessage ? (<p className='text-center text-md text-base-color'>An Error occured, please try again</p>)
           : isLoading ? (<Spinner />) :
             (<Swiper
-              modules={[Navigation, A11y]}
+              modules={[Autoplay]}
               slidesPerView={1}
-              navigation
+              loop={true}
+              autoplay={{
+                delay: 5000,
+                disableOnInteraction: false
+              }}
             >
               {movies.slice(0, 10).map(movie => (
                 <SwiperSlide key={movie.id}>
                   <Link
                     to={`/movie/${movie.id}`}
-                    className='w-full h-full'
+                    className='w-full h-full relative overflow-hidden bg-amber-50'
                   >
                     <div>
-                      <img src={movie.primaryImage} alt={movie.originalTitle + "Image"} className='h-96' />
+                      <img src={movie.primaryImage} alt={movie.originalTitle + "Image"} className='h-screen w-full object-cover' />
                     </div>
-                    <div>
-
+                    <div className='absolute w-full h-fit bottom-0 p-3 md:p-10 bg-dark/50'>
+                      <h1 className='text-large p-2'>{movie.originalTitle}</h1>
+                      <p className='text-gray-200 p-2'>{movie.description}</p>
+                      {/* <Link to={`/movie/${movie.id}`} className='flex items-center gap-2 text-small text-gray-800 hover:text-gray-400 p-2 transition duration-500 ease-in underline'>View more details <FiArrowRight /></Link> */}
                     </div>
                   </Link>
                 </SwiperSlide>
@@ -84,7 +90,7 @@ export default function Home() {
               : isLoading ? (<Spinner />) :
                 (
                   <Swiper
-                    modules={[Navigation, A11y]}
+                    modules={[Navigation]}
                     spaceBetween={15}
                     slidesPerView={2}
                     navigation
