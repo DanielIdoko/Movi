@@ -6,7 +6,9 @@ Here are the features of this App:
 2. Search for Movies
 3. Save Favourite Movies
 4. View full movies information
-This App is fully functional and is built on ReactJs Framework alongside TMDB API and Tailwindcss.
+
+
+This App is fully functional and is built with ReactJs Library alongside React Router and Tailwindcss.
 
 To Run this App;
 ```js
