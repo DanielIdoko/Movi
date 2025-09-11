@@ -1,0 +1,145 @@
+@import "tailwindcss";
+
+body {
+  transition: all 350ms ease;
+  background-color: var(--color-dark);
+  font-family: "Open sans", sans-serif;
+}
+
+img {
+  transition: all 350ms ease-in;
+}
+img:hover {
+  transform: scale(1.1);
+}
+
+.sub-heading{
+  @apply text-small md:text-medium p-3 md:p-5 md:pl-4 text-white 
+}
+
+.info {
+    @apply text-gray-500 text-small font-bold 
+}
+.movie-card{
+  @apply w-44 md:w-48 h-60 bg-dark relative p-1 rounded-2xl cursor-pointer overflow-hidden
+}
+
+
+
+span{
+  @apply font-normal
+}
+
+@theme {
+  /* Text sizes themes */
+  --text-x-small: 11px;
+  --text-small: 14px;
+  --text-medium: 16px;
+  --text-x-medium: 22px;
+  --text-large: 45px;
+  --text-x-large: 55px;
+  /* Font family themes */
+  --font-family-1: "Open sans", sans-serif;
+  /* Color themes */
+  --color-base-color: #f9f8ff;
+  --color-dark: #001;
+  --color-primary-color: #4750ff;
+  --color-secondary-color: #1b0424;
+}
+
+/* Spinner styling here */
+.loader {
+  width: 30px;
+  height: 30px;
+  border: 5px solid #fff;
+  border-bottom-color: transparent;
+  border-radius: 50%;
+  display: inline-block;
+  box-sizing: border-box;
+  animation: rotation 1s linear infinite;
+}
+
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@keyframes rotationBack {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(-360deg);
+  }
+}
+
+/* Stying for navlink */
+.nav-link {
+  padding: 6px 15px;
+  height: 44px;
+  display: flex;
+  font-size: var(--text-small);
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 30px;
+  cursor: pointer;
+  color: #555;
+  transition: all 1s ease;
+}
+/* .nav-link-search-btn {
+  @apply text-xl text-[rgb(85,85,85)] flex justify-center items-center transition duration-100 ease-in cursor-pointer
+} */
+
+
+.active-link {
+  height: 44px;
+  padding: 9px 30px;
+  color: #f1f1f1;
+  background-color: var(--primary-color);
+  border-radius: 30px;
+  border: 1px solid var(--primary-color);
+  font-size: 15px;
+  cursor: pointer;
+  transition: all 1s ease;
+}
+
+/* .nav-link:hover{
+    color: var(--primary-color);
+} */
+
+.category-button {
+  padding: 5px 10px;
+  font-size: 14px;
+  border: 1.5px solid #848383b9;
+  color: #d3d3d3;
+  border-radius: 60px;
+  transition: all 350ms ease;
+  cursor: pointer;
+}
+
+.hero-section{
+  @apply w-full h-full p-3 md:p-10  overflow-hidden
+}
+
+/* Category section */
+.movies-categories {
+  @apply w-full bg-dark h-full pl-5 p-3 md:p-10;
+}
+
+
+.saved-btn{
+  @apply text-gray-500 p-1 text-medium flex items-center justify-center absolute right-1 top-2 transition duration-500 ease-in rounded-full cursor-pointer hover:bg-blue-900 hover:text-white
+}
