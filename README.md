@@ -8,10 +8,10 @@
 4. View full movies information
 This App is fully functional and is built on ReactJs Framework alongside TMDB API and Tailwindcss.
 
-### How to get started;
+### How to get started
 ```js
 
-#Install necessary packages
+#Install necessary packages and dependencies
 npm i
 
 #Start the development server
