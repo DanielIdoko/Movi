@@ -58,7 +58,7 @@ const SavedMovie = ({ movie, handleToggleConfirmModal, confirmModalShown }) => {
                     <p className="text-sm font-bold text-gray-200">
                         {movie.originalTitle}
                     </p>
-                    <p className="text-xs text-gray-400">{movie.runtimeMinutes} min</p>
+                    <p className="text-xs text-gray-400">{movie.runtimeMinutes || "" + "54 mins"}</p>
                 </div>
             </Link>
 

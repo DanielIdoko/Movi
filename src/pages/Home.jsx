@@ -139,7 +139,7 @@ export default function Home() {
           : isLoading ? (<Spinner />) :
             (
               <div className="w-full h-auto mt-6 grid grid-cols-2 md:grid-cols-3 gap-5 lg:grid-cols-6 items-center justify-items-center">
-                {filteredMovies.slice(0, 20).map((movie) => (
+                {filteredMovies.slice(0, 30).map((movie) => (
                   <Suspense fallback={<Spinner />} key={uuid4()}>
                     <MovieCard movieData={movie} movieState={movie} />
                   </Suspense>
